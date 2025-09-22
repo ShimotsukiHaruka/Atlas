@@ -31,7 +31,7 @@
 + **Definition:** The uncertainty in a measurement.
 + **Single measurement:**
 $$
-Δx=±\frac{1}{2}(smallest \ instrument \ division)
+Δx = ± \frac{1}{2} \times (\text{smallest instrument division})
 $$
 + **Multiple measurements:**
 $$
