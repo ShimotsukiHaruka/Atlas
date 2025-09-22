@@ -15,13 +15,7 @@ Shoutages occur when producers cannot offer enough products at current prices.
 ---
 ## Words
 **cruel** 
-+ adj.残酷的，残忍的；引起痛苦的
-+ v.<非正式>弄糟，使没有成功可能
-
 **cosmetics**
-+ n.[化工]化妆品（cosmetic 的复数）；装饰品
-+ v.用化妆品打扮（cosmetic 的三单形式）
-
 **profit**
 **beneficence**
 **charity**
