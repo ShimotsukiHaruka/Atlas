@@ -18,12 +18,22 @@ Businesses do not operate in isolation
 ---
 
 ## Internal vs External Factors Affecting a Business
-**Internal:**These come from within the business and are usually controllable by the business.
-e.g. + Management & Leadership → decision-making, leadership style
-     + Employees → skills, motivation, productivity
-**External:**These come from outside the business and are usually uncontrollable. Businesses must adapt to them.
-e.g. + Political → government policies, taxation, regulations
-     + Economic → inflation, interest rates, exchange rates, economic growth
+### Internal Factors
+These come from **within the business** and are usually **controllable** by the business.  
+
+**Examples:**  
+- **Management & Leadership** → decision-making, leadership style  
+- **Employees** → skills, motivation, productivity  
+
+---
+
+### External Factors
+These come from **outside the business** and are usually **uncontrollable**. Businesses must adapt to them.  
+
+**Examples:**  
+- **Political** → government policies, taxation, regulations  
+- **Economic** → inflation, interest rates, exchange rates, economic growth
+
 ## Intro To Steeple Analysis
 It affects all external aspects of a business including what to produce, what resources to use, how to produce, how much to produce, how to distribute, where to produce and sell, how to advertise, etc.
 
