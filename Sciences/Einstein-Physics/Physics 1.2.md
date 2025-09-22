@@ -34,9 +34,7 @@
 Δx = ± \frac{1}{2} \times (\text{smallest instrument division})
 ```
 + **Multiple measurements:**
-$$
-Δx = ± \frac{x_{\text{max}} - x_{\text{min}}}{2}
-$$
+$\Delta x = \pm \frac{x_{\text{max}} - x_{\text{min}}}{2}$
 ### Vairty of errors
 $$
 Reative \ error=\frac{Δx}{x}
