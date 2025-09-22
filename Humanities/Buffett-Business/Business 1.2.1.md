@@ -1,4 +1,4 @@
- # Business 2.1
+ # Business 1.2.1
  ## Types of business entities
  + *An economic system is the method used by a society to allocate resources, produce and distribute goods and services.*
  
