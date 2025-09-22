@@ -35,7 +35,7 @@
 ```
 + **Multiple measurements:**
 ```math
-$\Delta x = \pm \frac{x_{\text{max}} - x_{\text{min}}}{2}$
+\Delta x = \pm \frac{x_{\text{max}} - x_{\text{min}}}{2}
 ```
 ### Vairty of errors
 $$
