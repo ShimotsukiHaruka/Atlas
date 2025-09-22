@@ -30,9 +30,9 @@
 ### Absolute error
 + **Definition:** The uncertainty in a measurement.
 + **Single measurement:**
-$$
+```math
 Δx = ± \frac{1}{2} \times (\text{smallest instrument division})
-$$
+```
 + **Multiple measurements:**
 $$
 Δx = ± \frac{x_{\text{max}} - x_{\text{min}}}{2}
