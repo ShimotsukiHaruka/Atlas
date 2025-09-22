@@ -14,11 +14,11 @@ Shoutages occur when producers cannot offer enough products at current prices.
 
 ---
 ## Words
-**cruel** 
-**cosmetics**
-**profit**
-**beneficence**
-**charity**
++ **cruel** 
++ **cosmetics**
++ **profit**
++ **beneficence**
++ **charity**
 
 
 
