@@ -1,4 +1,4 @@
-# Business 1.1
+# Business 1.1.1
 **Scarcity:** a situation where there is not enough to satisfy everyone's wants.
 (Human wants are unlimited but resources are scarce.)
 
