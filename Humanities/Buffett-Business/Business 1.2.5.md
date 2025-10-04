@@ -31,3 +31,5 @@ The main features of limited companies are:
 + collateral
 + dividend
 + conflict
++ liability
+
