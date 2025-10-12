@@ -3,21 +3,6 @@
 + UBC: Unique
 + R&D:
 ---
-## Words
-+ parada
-+ chip
-+ semiconductor
-+ discriminate
-+ copyright
-+ ethical
-+ intellectual property
-+ confidentiality agreement
-+ lawsuit
-+ cheap copy
-+ knock-off
-+ go bankrupt
-+ insist
----
 ## Automation Industry
 + **Econimical**
   Increase in unemployment rate by 5% 
@@ -57,4 +42,20 @@
 + Creative
 + Ethical
 + Sustainable
+---
+## Vocabulary 
++ parada
++ chip
++ semiconductor
++ discriminate
++ copyright
++ ethical
++ intellectual property
++ confidentiality agreement
++ lawsuit
++ cheap copy
++ knock-off
++ go bankrupt
++ insist
+
 
