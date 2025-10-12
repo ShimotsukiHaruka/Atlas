@@ -20,5 +20,6 @@
    + How profits or losses will be shared among the partners.
    + clauses for the withdrawal of a partner.
    + procedures for ending the partnership.
-## Words
+## Vocabulary 
+
 + dissolution
