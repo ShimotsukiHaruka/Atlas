@@ -25,11 +25,12 @@ The main features of limited companies are:
 + 2. asking questions about various aspects of the company.
 + 3. approving the financial statements.
 ---
-## Words
+## Vocabulary 
 + invoice
 + flattery
 + collateral
 + dividend
 + conflict
 + liability
+
 
