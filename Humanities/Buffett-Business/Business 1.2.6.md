@@ -36,7 +36,7 @@ For profit social enterprises are businesses run in a commercial-like manner tow
 ## For-profit Social Enterprises-Cooperatives
 + It's owned and run by its members, who may be customers, employees, or residents.
 --- 
-## Words
+## Vocabulary 
 + borrow
 + asset
 + collateral
@@ -45,5 +45,6 @@ For profit social enterprises are businesses run in a commercial-like manner tow
 + divorce
  
   
+
 
 
