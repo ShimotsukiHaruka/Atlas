@@ -27,8 +27,9 @@ Firms can also be classified on the basis of whether they are publicly owned or 
 + A sole trader has unlimited liability and is responsible (liable) for any debt of the business which may be paid from the sole trader's personal assets.
 
 **Corporation:** in the body
-## Words
+## Vocabulary 
 + go to public
 + bamkrupt
 + sue
+
 + lawsuit
