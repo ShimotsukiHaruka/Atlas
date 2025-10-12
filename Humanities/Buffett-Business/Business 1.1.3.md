@@ -40,7 +40,7 @@ It affects all external aspects of a business including what to produce, what re
 ## Steeple Analysis Examples
 Changes in the external environment will create opportunities as well as challenges for starting or growing a business.
 
-## Words
+## Vocabulary
 + **Safari** 
 + **Scandal**
 + **Political**
