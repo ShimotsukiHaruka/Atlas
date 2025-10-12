@@ -35,7 +35,7 @@
 + Microfinance providers enable the disadvantaged members of society to gain access to essential financial services to help eradicate poverty.
 + The funds are approved for microenterprise development since access to banking and insurance services maybe very limited for small businesses.  
 ---
-## Words
+## Vocabulary 
 + cooperate
 + corporate
 + corporation
