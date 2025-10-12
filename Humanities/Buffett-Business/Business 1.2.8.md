@@ -36,11 +36,12 @@
 + Its key function is raising funds from the individuals and organizations in society.
 ---
 
-## Words
+## Vocabulary
 + groceries
 + unincorporated
 + one stop shop
 + microfinance
 + aggressive
 + lobbying
+
 + collateral
