@@ -1,4 +1,4 @@
-# Word
+# Vocabulary
 + UAV: Unmanned aerial vehicle
-+ drone
++ Drone
 
