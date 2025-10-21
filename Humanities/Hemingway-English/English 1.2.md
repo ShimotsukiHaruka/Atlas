@@ -11,5 +11,5 @@
 + Approachable
 ---
 ## Homework
-P5 1.8 a~d
-P6 9.1 a~e
++ P5 1.8 a-d
++ P6 9.1 a-e
