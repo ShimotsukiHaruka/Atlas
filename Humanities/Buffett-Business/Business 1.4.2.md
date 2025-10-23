@@ -14,7 +14,7 @@ Many organizations are now trying to work with their stakeholders and regard the
 The stakeholder concept fits in with corporate social responsibility in that it stresses the benefits of accepting obligations to stakeholders over and above what the law requires.
 
 ---
-## The Meaning of Coulor
+## The Meaning of Colour
 + Yellow: Don't understand
 + Green: Advantage
 + Blue: Example
