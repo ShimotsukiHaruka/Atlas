@@ -1,14 +1,26 @@
-# 强制 Markdown 识别并禁用其他检测
-*.md linguist-language=Markdown
-*.md linguist-documentation=false
+# ======================
+# 强制语言识别配置
+# ======================
 
-# 如果有以数字结尾的 .md 文件（容易被误认为 man page）
-*.1.md linguist-language=Markdown
-*.2.md linguist-language=Markdown
-*.3.md linguist-language=Markdown
-*.4.md linguist-language=Markdown
-*.5.md linguist-language=Markdown
-*.6.md linguist-language=Markdown
-*.7.md linguist-language=Markdown
-*.8.md linguist-language=Markdown
-*.9.md linguist-language=Markdown
+# 强制所有 Markdown 文件识别为 Markdown
+*.md linguist-language=Markdown
+*.markdown linguist-language=Markdown
+
+# 隐藏所有配置和无关文件（避免干扰语言统计）
+*.json linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.xml linguist-vendored
+*.toml linguist-vendored
+*.ini linguist-vendored
+*.cfg linguist-vendored
+*.conf linguist-vendored
+
+# 隐藏 Git 和 IDE 配置文件
+.gitattributes linguist-vendored
+.gitignore linguist-vendored
+.editorconfig linguist-vendored
+
+# 文档文件标记
+README.md linguist-documentation=true
+docs/ linguist-documentation=true
