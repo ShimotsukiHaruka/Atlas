@@ -22,6 +22,10 @@ External economies of scale occur when firms benefit from the entire industry be
 
 **Financial economies:** banks are more willing to lend money to large firms since they are more financially secure (than small firms) to repay loans. They are also likely to get lower rates of interest. Large firms also have the ability to sell shares to raise capital (which do not have to be repaid). Thus, they get more financial capital at lower costs.
 
+**Technical economies:** large firms are more financially able to invest in good technology, skilled workers, machinery etc. which are very efficient and cut costs for the firm.
+
+**Risk-bearing economies:** large firms with a high output can sell into different markets (even overseas). They are able to produce a variety of products (diversification in production). This means that their risks are spread over a wider range of products or markets; even when a market is not promising or a product is not successful, they have...
+
 ---
 ## Vocabulary
 + Clash
