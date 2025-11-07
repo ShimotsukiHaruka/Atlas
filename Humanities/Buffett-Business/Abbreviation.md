@@ -27,3 +27,5 @@
 
 **IPO:** Initial Public Offering
 
+**M&A:** Mergers and Acquisitions
+
