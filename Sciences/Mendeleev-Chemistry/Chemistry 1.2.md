@@ -2,7 +2,7 @@
 ## How do we know what the sun is made of?
 + Hydrogen - 70%
 + Helium - 28%
-
+---
 ## The electromagnetic spectrum
 $$
 E ∝ 1/λ
@@ -17,7 +17,9 @@ $$
 $$
 h = 6.63 × 10⁻³⁴ J·s \ (Planck's Constant)
 $$
-## Words
+
+---
+## Vocabulary
 + spectroscope
 + photon
 + spectrum

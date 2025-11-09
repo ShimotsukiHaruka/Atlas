@@ -1,8 +1,5 @@
 # Chemistry
 ## Deflected
-+ Atomic Mass
-+ Atomic number
-
 <style>
 .nuclide {
   display: inline-grid;
@@ -31,5 +28,9 @@
   <span>X</span>
 </span>
 
+---
+## Definations
++ Atomic Mass
++ Atomic number
 
 
