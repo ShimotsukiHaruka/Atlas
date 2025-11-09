@@ -10,4 +10,3 @@
 **Lateral/Conglomerate Integration:** this occurs when firms producing different types of products integrate. They could be at the same or different stages of production. Example: a housing company integrates with a dairy farm. Thus, the firm can produce a wide range of products.
 
 ---
-
