@@ -31,4 +31,4 @@
 + **Sustainable** business practices can enhance a business’s existence. For example, finding ways of people sharing resources can create new markets such as ride-hailing apps.
 ---
 ## Vocabulary
-+ criticism
++ Criticism
