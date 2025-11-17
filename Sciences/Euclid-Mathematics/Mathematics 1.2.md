@@ -26,7 +26,7 @@ $$y=asin(bx+c)+d$$
 
 ---
 
-## Words
+## Vocabulary
 + stretch
 + translations
 + reflection

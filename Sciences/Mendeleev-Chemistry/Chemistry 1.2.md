@@ -20,8 +20,8 @@ $$
 
 ---
 ## Vocabulary
-+ spectroscope
-+ photon
-+ spectrum
-+ fold
-+ subject representative
++ Spectroscope
++ Photon
++ Spectrum
++ Fold
++ Subject Representative
