@@ -50,6 +50,7 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 
 - different views on whether and how to end the venture.
 ---
+
 ## Vocabulary
 + Lay Off
 + Clase
