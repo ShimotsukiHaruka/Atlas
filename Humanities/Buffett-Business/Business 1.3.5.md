@@ -1,5 +1,4 @@
 # Business 1.3.5
----
 ## Elkington's Triple Bottom Line
 ![enter image description here](https://images.theimpactinvestor.com/wp-content/uploads/2022/05/Tiple-bottom-line.jpg)
 

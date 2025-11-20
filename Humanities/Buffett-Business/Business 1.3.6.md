@@ -1,5 +1,4 @@
 # Business 1.3.6
----
 ## Swot Analysis — External Factors
 + Opportunities are external factors that bring forth possibilities/ prospects for future development. E.g.
    + The rising income of Chinese household brings lots of opportunities to business cities around the world.

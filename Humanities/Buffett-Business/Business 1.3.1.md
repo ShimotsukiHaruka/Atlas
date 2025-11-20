@@ -1,5 +1,4 @@
 # Business 1.3.1
----
 ## Business Objectives
 + ### Vision
   + Having a vision means to have an image of an ideal situation in the future.

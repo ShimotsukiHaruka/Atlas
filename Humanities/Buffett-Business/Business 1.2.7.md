@@ -1,5 +1,4 @@
 # Business 1.2.7
----
 ## For Profit Social Enterprises-Cooperatives
 + It's owned and run by their member, such as employees, customers or residents.
 + The common goal is to create value for their member by operating in a socially responsible way.

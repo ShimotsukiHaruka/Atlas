@@ -1,5 +1,4 @@
 # Business 1.2.8
----
 ## Microfinance Providers ADVS. VS DISADVS.
 + **Advantages**
   + **Accessibility**: Microfinance helps those in poverty to become financially independent, whereas banks do not typically lend such small amounts and to this particular market segment.

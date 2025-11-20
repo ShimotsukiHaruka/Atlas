@@ -1,5 +1,4 @@
 # Business 1.3.4
----
 ## Private Sector Objectives: Providing Services & Regional Development
 + State-owned enterprises (SOEs) are instructed by the government to provide services beneficial to the whole population, even when it's not profitable.
 + Private sector businesses may not make not make the colossal investments necessary to develop infrastructure needed to supply utilities such as gas, water and electricity.
