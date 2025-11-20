@@ -28,6 +28,28 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - **Relatively cheap:** Joint ventures are relatively cheap compared with the costs of a hostile takeover (which are often unknown). It is also easier to pull out of a JV if necessary.
 - **High success rate:** Joint ventures tend to be friendly and receptive, thus more successful. By contrast, takeovers often fall due to their unfriendly and hostile nature.
 --- 
+## Joint Venture Vs Strategic Alliance
+![alt text](4.png)
+---
+---
+## Benefits of Joint Ventures
+
+- **Synergies** : a JV can benefit from the pooling of experiences, skills and resources of the collaborating firms.
+- **Spreading costs and risks** : Financial costs, risks and losses are shared in a JV thereby helping to reduce the financial burden on any single organization.
+- **Entry to foreign markets** : JVs are used by companies to enter foreign countries markets by forming an agreement with local firms.
+- **Relatively cheap:** Joint ventures are relatively cheap compared with the costs of a hostile takeover (which are often unknown). It is also easier to pull out of a JV if necessary.
+- **High success rate:** Joint ventures tend to be friendly and receptive, thus more successful. By contrast, takeovers often fall due to their unfriendly and hostile nature.
+---
+## Difficulties of JVs and SAs
+
+**There may still be difficulties, such as:**
+
+- disagreements over the relative contribution of each business, and therefore how profits should be divided.
+
+- different views on how decisions should be made and what the priorities are.
+
+- different views on whether and how to end the venture.
+---
 ## Vocabulary
 + Lay Off
 + Clase
