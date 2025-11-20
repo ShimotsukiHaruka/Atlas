@@ -1,6 +1,6 @@
 # Business 1.1.4
 ## Shoutage
-+ UBC: Unique
++ UBC: 
 ---
 ## Automation Industry
 + **Econimical**
