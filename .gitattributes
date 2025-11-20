@@ -1,10 +1,7 @@
-# 1. 强制将 .md 文件识别为 Markdown 并计入语言统计
-*.md linguist-language=Markdown
-*.md linguist-detectable=true
+# 1. 先把所有文件都“屏蔽”掉（不计入统计）
+* linguist-vendored
 
-# 2. 忽略导致误判为 roff 的文件（通常是 man page 格式）
-# 如果你知道具体是哪些文件被误判，可以用具体文件名代替星号
-*.man linguist-vendored
-*.1 linguist-vendored
-*.3 linguist-vendored
-*.roff linguist-vendored
+# 2. 专门把 .md 文件“捞”回来，并强制设为 Markdown 语言
+*.md linguist-vendored=false
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
