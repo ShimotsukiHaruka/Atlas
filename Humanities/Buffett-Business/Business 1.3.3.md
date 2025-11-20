@@ -1,5 +1,4 @@
 # Business 1.3.3
----
 ## S.M.A.R.T Objectives for A Student
 **"A goal without a plan is only a dream."    Brian Tracy**
 
