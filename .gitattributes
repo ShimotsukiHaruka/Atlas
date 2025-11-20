@@ -1,26 +1,10 @@
-# ======================
-# 强制语言识别配置
-# ======================
-
-# 强制所有 Markdown 文件识别为 Markdown
+# 1. 强制将 .md 文件识别为 Markdown 并计入语言统计
 *.md linguist-language=Markdown
-*.markdown linguist-language=Markdown
+*.md linguist-detectable=true
 
-# 隐藏所有配置和无关文件（避免干扰语言统计）
-*.json linguist-vendored
-*.yml linguist-vendored
-*.yaml linguist-vendored
-*.xml linguist-vendored
-*.toml linguist-vendored
-*.ini linguist-vendored
-*.cfg linguist-vendored
-*.conf linguist-vendored
-
-# 隐藏 Git 和 IDE 配置文件
-.gitattributes linguist-vendored
-.gitignore linguist-vendored
-.editorconfig linguist-vendored
-
-# 文档文件标记
-README.md linguist-documentation=true
-docs/ linguist-documentation=true
+# 2. 忽略导致误判为 roff 的文件（通常是 man page 格式）
+# 如果你知道具体是哪些文件被误判，可以用具体文件名代替星号
+*.man linguist-vendored
+*.1 linguist-vendored
+*.3 linguist-vendored
+*.roff linguist-vendored
