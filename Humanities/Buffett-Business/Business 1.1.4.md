@@ -1,6 +1,4 @@
 # Business 1.1.4
-## Shortage
-+ UBC: 
 
 ## Automation Industry
 + **Economical**
