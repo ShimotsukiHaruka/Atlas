@@ -25,7 +25,6 @@ $$y=asin(bx+c)+d$$
 **d:** vertical translation (if d>0, up; if d<0, down)
 
 ---
-
 ## Vocabulary
 + stretch
 + translations
