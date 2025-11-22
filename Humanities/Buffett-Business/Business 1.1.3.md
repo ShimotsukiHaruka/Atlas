@@ -8,7 +8,7 @@
 ## Developed vs Developing Economics
 **Percentage in GDP**
 
-The size of a country's different sectors of business activity ofen indicates if it has a developing or a developed economy.
+The size of a country's different sectors of business activity often indicates if it has a developing or a developed economy.
 
 
 ## Macro&Micro

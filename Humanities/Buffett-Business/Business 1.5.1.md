@@ -4,7 +4,7 @@
 + **LRAC:** Long Run Average Cost
 As a firm's scale of production increases, its average costs decrease. Cost saving from a large-scale production is called economies of scale.
 
----
+
 ## Internal/External Economies of Scale
 
 Internal economies of scale are resulting from decisions taken within the firm that can bring about economies (advantages).
@@ -15,7 +15,7 @@ External economies of scale occur when firms benefit from the entire industry be
 
 + Purchasing/Buying economies: large firms can buy raw materials and components in bulk because of their large scale of production. Suppliers will usually offer price discounts for bulk purchases, which will cut purchasing costs for the firm.
 
----
+
 ## Internal Economies of Scale
 
 **Marketing/Selling economies:** large firms can afford their own vehicles to distribute their products, which is much cheaper than hiring other firms to distribute them. Also, the costs of advertising is spread over a much larger output in large firms when compared to small firms.
@@ -28,7 +28,7 @@ External economies of scale occur when firms benefit from the entire industry be
 
 **Managerial economies:** Large firms can employ specialist staff in key posts which will increase the firm's efficiency, reduce costs of production and raise demand and revenue, hence more profits.
 
-**Labour economies:** Large firms can engage in division of labour among their staff, and by firing their unproductive workers, they can decrease labour costs, which means more profits.
+**Labor economies:** Large firms can engage in division of labor among their staff, and by firing their unproductive workers, they can decrease labor costs, which means more profits.
 
 **Research and development economies:** A large firm can have a research and development (R&D) department, since it can reduce average costs by developing more efficient methods of production and raise total revenue by developing new innovative products.
 
