@@ -10,7 +10,7 @@
   + Use more precise instruments.
 
 🔹 Systematic errors
-+ Cause: Faulty methods or instruments (e.g., miscalibrated scale, zero error).
++ Cause: Faulty methods or instruments (e.g., mis calibrated scale, zero error).
 
 + Effect: All values shifted in the same direction away from the true value.
 
@@ -21,6 +21,7 @@
    + Compare with known standards.
 
    + Improve experimental method.
+---
 ### Precision and accuracy
 + **Precision** = how close repeated measurements are to each other (consistency), affected by random errors.
 + **Accuracy** = how close measurements are to the true value, affected by systematic errors.
@@ -30,14 +31,10 @@
 ### Absolute error
 + **Definition:** The uncertainty in a measurement.
 + **Single measurement:**
-```math
-Δx = ± \frac{1}{2} \times (\text{smallest instrument division})
-```
+$$\Delta x = \pm \frac{1}{2} \times (\text{smallest instrument division})$$
 + **Multiple measurements:**
-```math
-\Delta x = \pm \frac{x_{\text{max}} - x_{\text{min}}}{2}
-```
-### Vairty of errors
+$$\Delta x = \pm \frac{x_{\text{max}} - x_{\text{min}}}{2}$$
+### Varity of errors
 $$
 Reative \ error=\frac{Δx}{x}
 $$
