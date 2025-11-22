@@ -29,3 +29,5 @@
 
 **M&A:** Mergers and Acquisitions
 
+**AGM:** Annual general meeting allows owners
+

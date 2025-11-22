@@ -12,7 +12,6 @@ Shoutages occur when producers cannot offer enough products at current prices.
 *2. The quality of the final product*
 *3.The sales*
 
----
 ## Vocabulary
 + Cruel 
 + Cosmetics
