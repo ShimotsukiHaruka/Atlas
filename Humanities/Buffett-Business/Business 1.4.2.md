@@ -32,6 +32,7 @@ The stakeholder concept fits in with corporate social responsibility in that it 
 | Add extra shifts to increase capacity | Management, Customers & suppliers | Local community, Customers |
 | Introduce greater automation | Shareholders, Customers | Employees |
 | Increase selling prices | Shareholders, Management | Customers |
+
 ---
 
 ## The Meaning of Colour
