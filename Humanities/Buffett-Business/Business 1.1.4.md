@@ -53,8 +53,8 @@
 + Confidentiality agreement
 + Lawsuit
 + Cheap copy
-+ knock-off
-+ go bankrupt
-+ insist
++ Knock-off
++ Go bankrupt
++ Insist
 
 
