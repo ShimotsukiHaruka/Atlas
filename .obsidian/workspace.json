@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6955be87d3818b3",
+        "id": "6f9f0ebc8e33b312",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e04117ba57d352",
+            "id": "ccf3f4da052ba766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Einstein-Physics/Physics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.2.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics 1.2"
+              "title": "Business 1.2.1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sciences/Einstein-Physics/Physics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Physics 1.2 的反向链接列表"
+              "title": "Business 1.2.1 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sciences/Einstein-Physics/Physics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Physics 1.2 的出链列表"
+              "title": "Business 1.2.1 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sciences/Einstein-Physics/Physics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.2.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Physics 1.2 的大纲"
+              "title": "Business 1.2.1 的大纲"
             }
           }
         ]
@@ -187,34 +187,38 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e4e04117ba57d352",
+  "active": "ccf3f4da052ba766",
   "lastOpenFiles": [
-    "Sciences/Einstein-Physics/Physics 1.1.md",
-    "Sciences/Einstein-Physics/Physics 1.2.md",
+    "Humanities/Buffett-Business/Business 1.1.4.md",
+    "Humanities/Buffett-Business/Business 1.2.2.md",
+    "Humanities/Buffett-Business/Business 1.2.3.md",
+    "Humanities/Buffett-Business/Business 1.2.1.md",
+    "daxueconsulting.com.md",
+    "Humanities/Buffett-Business/Business 1.1.3.md",
+    "Humanities/Buffett-Business/Business 1.1.2.md",
+    "Humanities/Buffett-Business/Business 1.1.1.md",
+    "Humanities/Buffett-Business/1.png",
+    "Humanities/Buffett-Business/2.png",
+    "Humanities/Buffett-Business/3.png",
+    "Humanities/Buffett-Business/4.png",
+    "Sciences/Mendeleev-Chemistry/Chemistry 4.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
+    "README.md",
+    "TOK/TOK.md",
+    "Sciences/Turing-Computer-Science/Computer-Science 1.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 1.1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.8.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.6.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.4.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
     "Sciences/Einstein-Physics/Physics 2.1.md",
     "Sciences/Einstein-Physics/Physics 2.2.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.4.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.6.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.8.md",
-    "Humanities/Buffett-Business/Business 1.5.4.md",
-    "Humanities/Buffett-Business/Business 1.5.3.md",
-    "Humanities/Buffett-Business/Business 1.5.2.md",
-    "Humanities/Buffett-Business/Business 1.4.3.md",
-    "Humanities/Buffett-Business/Business 1.4.2.md",
-    "Humanities/Buffett-Business/Business 1.4.1.md",
-    "Humanities/Buffett-Business/Business 1.3.6.md",
-    "Humanities/Buffett-Business/Business 1.3.5.md",
-    "Humanities/Buffett-Business/Business 1.5.1.md",
-    "Humanities/Buffett-Business/Business 1.3.3.md",
-    "Humanities/Buffett-Business/Business 1.3.4.md",
-    "TOK/TOK.md",
-    "Humanities/Buffett-Business/Business 1.1.4.md",
-    "Humanities/Buffett-Business/Business 1.2.1.md",
     "未命名.base"
   ]
 }
