@@ -181,13 +181,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e4e04117ba57d352",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/Business 1.2.1.md",
     "Humanities/Buffett-Business/Business 1.1.4.md",
+    "Humanities/Buffett-Business/Business 1.2.4.md",
+    "Humanities/Buffett-Business/Business 1.2.3.md",
+    "Humanities/Buffett-Business/Business 1.2.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "未命名.base",
     "Humanities/Buffett-Business/Business 1.1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
