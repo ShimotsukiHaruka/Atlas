@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
-                "mode": "preview",
-                "source": true
+                "file": "Humanities/Buffett-Business/Business 1.3.3.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematics 1.2"
+              "title": "Business 1.3.3"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "internal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.3.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Mathematics 1.2 的反向链接列表"
+              "title": "Business 1.3.3 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Mathematics 1.2 的出链列表"
+              "title": "Business 1.3.3 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.3.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Mathematics 1.2 的大纲"
+              "title": "Business 1.3.3 的大纲"
             }
           }
         ]
@@ -187,12 +187,25 @@
   },
   "active": "e4e04117ba57d352",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 1.3.4.md",
+    "Humanities/Buffett-Business/Business 1.3.5.md",
+    "Humanities/Buffett-Business/Business 1.3.6.md",
+    "Humanities/Buffett-Business/Business 1.4.1.md",
+    "Humanities/Buffett-Business/Business 1.4.2.md",
+    "Humanities/Buffett-Business/Business 1.4.3.md",
+    "Humanities/Buffett-Business/Business 1.5.1.md",
+    "Humanities/Buffett-Business/Business 1.5.2.md",
+    "Humanities/Buffett-Business/Business 1.5.4.md",
+    "Humanities/Buffett-Business/Business 1.5.3.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.4.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.6.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.8.md",
+    "TOK/TOK.md",
+    "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
     "Humanities/Buffett-Business/Business 1.1.4.md",
     "Humanities/Buffett-Business/Business 1.2.1.md",
     "Humanities/Buffett-Business/Business 1.1.3.md",
@@ -200,9 +213,6 @@
     "Humanities/Buffett-Business/Business 1.2.3.md",
     "Humanities/Buffett-Business/Business 1.2.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
-    "未命名.base",
-    "Humanities/Buffett-Business/Business 1.1.1.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
-    "Humanities/Buffett-Business/Business 1.1.2.md"
+    "未命名.base"
   ]
 }
