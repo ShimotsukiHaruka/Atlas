@@ -14,6 +14,6 @@
 
 
 $\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
-D down P down$\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
+D down P down$\text{Demand}(\downarrow) \quad \text{Price}(\downarrow)$ 
 $\text{Supply}(\uparrow) \quad \text{Price}(\downarrow)$ 
 S down P up$\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
