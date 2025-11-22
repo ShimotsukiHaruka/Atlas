@@ -11,8 +11,7 @@
 ### Market Economy Features
 + All resources are owned and allocated by private individuals.
 + Government refrains from regulating markets.
-
-D up P down
-D down P down
-S up P down
-S down P up
+ $\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
+D down P down$\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
+S up P down$\text{Supll}(\uparrow) \quad \text{Price}(\downarrow)$ 
+S down P up$\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
