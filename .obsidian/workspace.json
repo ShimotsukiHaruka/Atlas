@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8b9e96050c89c598",
+        "id": "196aef26c8bce21d",
         "type": "tabs",
         "children": [
           {
-            "id": "3ce459518df18497",
+            "id": "19d0786e8c5bcbd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanities/Buffett-Business/Business 1.4.3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Business 1.4.3"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 1.4.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Business 1.4.3 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 1.4.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Business 1.4.3 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 1.4.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Business 1.4.3 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -187,20 +180,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3ce459518df18497",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "未命名",
+    "未命名.canvas",
+    "daxueconsulting.com.md",
+    "Humanities/Buffett-Business/Business 1.4.3.md",
     "Humanities/Buffett-Business/Business 1.4.1.md",
     "Humanities/Buffett-Business/Business 1.3.4.md",
     "Humanities/Buffett-Business/Business 1.1.3.md",
     "Humanities/Buffett-Business/Business 1.1.2.md",
     "Humanities/Buffett-Business/Business 1.1.1.md",
     "Humanities/Buffett-Business/2.png",
-    "daxueconsulting.com.md",
     "Humanities/Buffett-Business/Business 1.5.4.md",
     "Humanities/Buffett-Business/Business 1.5.3.md",
     "Humanities/Buffett-Business/Business 1.5.2.md",
     "Humanities/Buffett-Business/Business 1.5.1.md",
-    "Humanities/Buffett-Business/Business 1.4.3.md",
     "Humanities/Buffett-Business/Business 1.4.2.md",
     "Humanities/Buffett-Business/Business 1.3.3.md",
     "Humanities/Buffett-Business/Business 1.3.1.md",
@@ -218,7 +213,6 @@
     "Sciences/Mendeleev-Chemistry/Chemistry 4.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "README.md",
-    "TOK/TOK.md",
     "未命名.base"
   ]
 }
