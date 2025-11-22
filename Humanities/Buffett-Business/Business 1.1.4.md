@@ -43,8 +43,8 @@
 + Sustainable
 ---
 ## Vocabulary 
-+ parada
-+ chip
++ Parada
++ Chip
 + semiconductor
 + discriminate
 + copyright

@@ -33,7 +33,6 @@ These come from **outside the business** and are usually **uncontrollable**. Bus
 **Examples:**  
 - **Political** → government policies, taxation, regulations  
 - **Economic** → inflation, interest rates, exchange rates, economic growth
-
 ## Intro To Steeple Analysis
 It affects all external aspects of a business including what to produce, what resources to use, how to produce, how much to produce, how to distribute, where to produce and sell, how to advertise, etc.
 
