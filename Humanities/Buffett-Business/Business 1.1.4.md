@@ -45,14 +45,14 @@
 ## Vocabulary 
 + Parada
 + Chip
-+ semiconductor
-+ discriminate
-+ copyright
-+ ethical
-+ intellectual property
-+ confidentiality agreement
-+ lawsuit
-+ cheap copy
++ Semiconductor
++ Discriminate
++ Copyright
++ Ethical
++ Intellectual property
++ Confidentiality agreement
++ Lawsuit
++ Cheap copy
 + knock-off
 + go bankrupt
 + insist
