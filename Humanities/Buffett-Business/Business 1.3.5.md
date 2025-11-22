@@ -49,5 +49,5 @@ It can be used to assess the current situation of a business by considering both
 + Resigned
 + Implementing
 + Steeple
-+ state of the art (technology)
-+ spy
++ State of the art (technology)
++ Spy

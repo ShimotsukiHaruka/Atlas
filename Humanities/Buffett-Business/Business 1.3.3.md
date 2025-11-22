@@ -54,9 +54,10 @@ Managers can protect shareholder value in one of two ways:
 ## Public Sector Objectives: Diversification
 + Diversification occurs when a business offers new products and services in new markets, usually in order to benefit from risk-bearing economies of scale.
 + If one becomes obsolete or one market becomes significantly more compitive, then the alternative products or markets will provide a secure source of revenue for the business.  
+---
 ## Vocabulary
-+ promotion
-+ sales agent
-+ recruitment 
-+ deface
-+ acquire
++ Promotion
++ Sales agent
++ Recruitment 
++ Deface
++ Acquire
