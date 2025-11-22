@@ -1,5 +1,5 @@
 # Mathematics 1.2
----
+
 $$f(x)-->f(x-h)+k$$
 $$Translation (h,k)$$
 

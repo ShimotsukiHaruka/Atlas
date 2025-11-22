@@ -5,4 +5,4 @@
 + **Median** = (Q1 + Q3) / 2
 + **Mode** = The value that appears most frequently in a data set.
 
----   
+

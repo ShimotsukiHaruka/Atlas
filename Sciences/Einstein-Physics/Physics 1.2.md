@@ -1,5 +1,5 @@
 # 1.3 Vectors and scalars
----
+
 $$
 Scalar \times Vector=Vector
 $$
