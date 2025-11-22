@@ -13,5 +13,5 @@
 + Government refrains from regulating markets.
  $\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
 D down P down$\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
-S up P down$\text{Supll}(\uparrow) \quad \text{Price}(\downarrow)$ 
+S up P down$\text{Suply}(\uparrow) \quad \text{Price}(\downarrow)$ 
 S down P up$\text{Demand}(\uparrow) \quad \text{Price}(\downarrow)$ 
