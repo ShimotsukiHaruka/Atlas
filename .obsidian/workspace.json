@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "Business 1.5.5 的大纲"
             }
+          },
+          {
+            "id": "3f8c5adfe3174b6b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
