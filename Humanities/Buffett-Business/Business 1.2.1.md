@@ -3,10 +3,10 @@
  + *An economic system is the method used by a society to allocate resources, produce and distribute goods and services.*
  
  + *Several fundamental types of economic systems exist answer the three question of who decides what to produce, how resources are allocated, and for whom to produce:*
- + traditional
- + command
- + market
- + mixed
+ + Traditional
+ + Command
+ + Market
+ + Mixed
 
 ### Market Economy Features
 + All resources are owned and allocated by private individuals.
