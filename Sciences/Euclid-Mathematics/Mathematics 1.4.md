@@ -4,7 +4,7 @@
 + 3 Significant Figures
 + Classified Discussion 
 + Miscalculation
----
+
 ## Vocabulary
 + Deposit
 + Sinusoidal
