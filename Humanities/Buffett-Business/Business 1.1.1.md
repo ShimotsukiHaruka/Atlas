@@ -4,9 +4,9 @@
 
 Scarce=Limited in supply
 
-Shoutages occur when producers cannot offer enough products at current prices.
+Shortages occur when producers cannot offer enough products at current prices.
 
-**In other words:** Demind > Supply = Think about 
+**In other words:** Demand > Supply = Think about 
 
 *1.The cost of a business*
 *2. The quality of the final product*
