@@ -1,7 +1,7 @@
 # Chinese 1.1
 ## PEA
 + **P:** Point
-+ **E:** Evindence
++ **E:** Evidence
 + **A:** Analysis
 ## 引入的要素
 + **作者**
