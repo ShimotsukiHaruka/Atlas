@@ -5,7 +5,7 @@
    + The Beijing Subway Company charged a symbolic price (2 yuan for almost a decade) for using the metro system to make sure it is affordable to all.
 + Many countries operate public sector business in rural regions with low incomes.    
 ## Private Sector Objectives: Financial Objective
-+ state-owned enterprises (SOEs) are expected to at least cover their operating costs to avoid becoming a drain on government funds.
++ State-owned enterprises (SOEs) are expected to at least cover their operating costs to avoid becoming a drain on government funds.
 + SOEs may want to generate a financial surplus which is mainly reinvested to improve the services offered.
 **For example:** 
 + The Beijing Subway Company.
