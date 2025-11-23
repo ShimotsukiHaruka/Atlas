@@ -1,4 +1,4 @@
-# Business 1.5.4
+
 ## Strategic Alliances
 A Strategic Alliance (SA) is similar to a joint venture in that two or more businesses cooperate in a business venture for mutual benefit. Thus, as in the SA share the costs of product development, operations and marketing. However, unlike JVs, forming a strategic alliance means that the affiliated businesses remain independent organizations.
 ## 4 Key Stages to Form a Strategic Alliance

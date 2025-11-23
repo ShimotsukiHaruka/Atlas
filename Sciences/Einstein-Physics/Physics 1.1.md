@@ -21,21 +21,18 @@
    + Compare with known standards.
 
    + Improve experimental method.
-
 ### Precision and accuracy
 + **Precision** = how close repeated measurements are to each other (consistency), affected by random errors.
 + **Accuracy** = how close measurements are to the true value, affected by systematic errors.
 + **High precision, low accuracy** → data clustered but far from true value.
 
 + **Low precision, high accuracy** → average is correct, but spread is large.
-
 ### Absolute error
 + **Definition:** The uncertainty in a measurement.
 + **Single measurement:**
 $$\Delta x = \pm \frac{1}{2} \times (\text{smallest instrument division})$$
 + **Multiple measurements:**
 $$\Delta x = \pm \frac{x_{\text{max}} - x_{\text{min}}}{2}$$
-
 ### Varity of errors
 $$
 Reative \ error=\frac{Δx}{x}

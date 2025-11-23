@@ -34,7 +34,7 @@ $$
 ---
 *Time is a scalar???*
 
-## Words
+## Vocabulary
 + Tail
 + Tip
 + Vertical component
