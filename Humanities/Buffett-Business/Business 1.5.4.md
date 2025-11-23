@@ -10,7 +10,7 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 
 2. Partnership assessment
 
-   + Analyse the potential of different partners, such as what they have to offer to the alliance in terms of both human and financial resources and expertise.
+   + Analyze the potential of different partners, such as what they have to offer to the alliance in terms of both human and financial resources and expertise.
 
 3. Contract negotiation
 
