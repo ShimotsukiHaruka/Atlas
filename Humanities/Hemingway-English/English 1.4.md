@@ -2,7 +2,7 @@
 
 ![enter image description here](https://www.crowe-associates.co.uk/wp-content/uploads/2015/06/gibbs_reflective_cycle.png)
 
----
+
 ## Sentence
 + Exclamatory sentence: "What a learning experience!"
 + Declarative sentence: "I have realized that I need to embrace my unique personality."

@@ -14,7 +14,6 @@
 ## Concentration
 $$ Concentration = \frac{moles\ of\ solute}{liters\ of\ solution} $$
 
-
 ## Vocabulary
 
 + Conservation
