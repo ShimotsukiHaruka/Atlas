@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "196aef26c8bce21d",
+        "id": "d7a3e5c6d65aae98",
         "type": "tabs",
         "children": [
           {
-            "id": "19d0786e8c5bcbd9",
+            "id": "84147e0a69651cd5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/2.png"
-              },
-              "icon": "lucide-image",
-              "title": "2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -196,8 +194,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "19d0786e8c5bcbd9",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
+    "Resources/3.png",
+    "Resources/2.png",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Laozi-Chinese/Chinese 1.1.md",
     "Humanities/Hemingway-English/English 1.4.md",
@@ -223,7 +223,6 @@
     "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
     "未命名",
     "未命名.canvas",
     "Humanities/Buffett-Business/2.png",
