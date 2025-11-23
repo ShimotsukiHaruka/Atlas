@@ -1,8 +1,6 @@
 # Business 1.5.4
 ## Strategic Alliances
 A Strategic Alliance (SA) is similar to a joint venture in that two or more businesses cooperate in a business venture for mutual benefit. Thus, as in the SA share the costs of product development, operations and marketing. However, unlike JVs, forming a strategic alliance means that the affiliated businesses remain independent organizations.
-
-
 ## 4 Key Stages to Form a Strategic Alliance
 1. Feasibility study
 
@@ -19,7 +17,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 4. Implementation
 
    + Operations are initiated with commitment to the contract from all parties.
-
 ## Benefits of Joint Ventures
 
 - **Synergies** : a JV can benefit from the pooling of experiences, skills and resources of the collaborating firms.
@@ -30,8 +27,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 
 ## Joint Venture Vs Strategic Alliance
 ![alt text](4.png)
-
-
 ## Benefits of Joint Ventures
 
 - **Synergies** : a JV can benefit from the pooling of experiences, skills and resources of the collaborating firms.
@@ -39,7 +34,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - **Entry to foreign markets** : JVs are used by companies to enter foreign countries markets by forming an agreement with local firms.
 - **Relatively cheap:** Joint ventures are relatively cheap compared with the costs of a hostile takeover (which are often unknown). It is also easier to pull out of a JV if necessary.
 - **High success rate:** Joint ventures tend to be friendly and receptive, thus more successful. By contrast, takeovers often fall due to their unfriendly and hostile nature.
-
 ## Difficulties of JVs and SAs
 
 **There may still be difficulties, such as:**
@@ -49,7 +43,6 @@ A Strategic Alliance (SA) is similar to a joint venture in that two or more busi
 - different views on how decisions should be made and what the priorities are.
 
 - different views on whether and how to end the venture.
-
 ## Vocabulary
 + Lay Off
 + Clause

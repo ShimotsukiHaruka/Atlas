@@ -1,4 +1,4 @@
-# Business 1.2.4
+
 ## A Sole Trader
 + A sale trader / sole proprietorship is a business owned and managed by one person.
 + It is run as an unincorporated business.
@@ -6,7 +6,6 @@
 + Sole trader business/sole proprietorships are common in industries such as retailing.
 + Sole Traders ADV/Disadv
 + The individual owner accept all the risks of running the business failture, but recives all profits if the business suceeds.
-
 ## Partnerships
 + A partnership is a commerial organization owned by two or more people.
 + Partners usually invest capital in the unicorporated business and will share profits.
@@ -22,4 +21,4 @@
    + procedures for ending the partnership.
 ## Vocabulary 
 
-+ dissolution
++ Dissolution

@@ -1,6 +1,6 @@
-# Business 1.2.2
+
 ## Must Know Definitions
-+ **Public goods:** goods that can be used by the general pulic, from which they will benefit.
++ **Public goods:** goods that can be used by the general public, from which they will benefit.
 + **Merit goods:** goods which create a positive effect on the community and ought to be consumed more.
 + **Demerit goods:** e.g. alcohol, cigarettes or junk food.
 + **Privatization:** moving ownership and control of a business from the public sector to the private sector.
@@ -14,5 +14,5 @@
 **They also have few disadvantages such as:**
 + Some private firms may become monopolies or oligopolies, may charge higher prices on low quality products, which hurts the consumers. 
 ## Vocabulary 
-+ variety
++ Variety
 
