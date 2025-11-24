@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -200,6 +199,10 @@
   },
   "active": "c6d01a163a8ac456",
   "lastOpenFiles": [
+    "Sciences/Mendeleev-Chemistry/Chemistry 4.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
+    "Humanities/Buffett-Business/Business 1.1.3.md",
+    "Humanities/Laozi-Chinese/Chinese 1.1.md",
     "Humanities/Buffett-Business/Business 1.5.4.md",
     "Humanities/Buffett-Business/Business 1.5.5.md",
     "Humanities/Buffett-Business/Business 1.5.3.md",
@@ -221,12 +224,8 @@
     "Sciences/Einstein-Physics/Physics 1.2.md",
     "Sciences/Einstein-Physics/Physics 1.1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
-    "Humanities/Laozi-Chinese/Chinese 1.1.md",
     "Humanities/Hemingway-English/English 1.4.md",
     "Humanities/Hemingway-English/English 1.3.md",
-    "Humanities/Hemingway-English/English 1.2.md",
-    "Humanities/Hemingway-English/English 1.1.md",
-    "Humanities/Buffett-Business/Business 1.3.3.md",
     "Humanities/Buffett-Business/4.png",
     "Humanities/Buffett-Business/3.png",
     "Humanities/Buffett-Business/2.png",
