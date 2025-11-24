@@ -1,3 +1,9 @@
+## Franchises
++ A franchise is a form of external growth/business ownership whereby a person or business buys a license to trade using another firm's name, logos, brands, trademarks as well as access to material/equipment and training methods.
++ In return for this benefit, the purchaser of a franchise (franchisee) pays a license fee to the parent company of the business (known as the franchisor).
++ The franchisee also pays a royalty payment (such as a commission) which is a percentage based on the sales revenue/turnover of the franchisee.
++ E.g. Subway, 7-Eleven, McDonald's, KFC and Burger King.
++ **Franchise:** A business in which the operator pays a mixture of upfront and ongoing fees in order to license the brand name and supporting resources of a parent company.
 ## Advantages For The Franchisee
 - Franchisees gain access to a tried and tested business model.
    - **TRIED. TESTED**
@@ -8,3 +14,4 @@
 - The franchisor’s corporate image and brand reputation is at risk if a franchisee is negligent and/or incompetent.
 - It is difficult for franchisors to closely monitor the operations of their franchisees.
 - The franchisee, as the owner of the franchised outlet, gets to keep most of the profits they generate, as opposed to the franchisor, who gets only a small percentage of revenue.
+## Vocabulary
