@@ -14,4 +14,9 @@
 - The franchisor’s corporate image and brand reputation is at risk if a franchisee is negligent and/or incompetent.
 - It is difficult for franchisors to closely monitor the operations of their franchisees.
 - The franchisee, as the owner of the franchised outlet, gets to keep most of the profits they generate, as opposed to the franchisor, who gets only a small percentage of revenue.
+## Disadvantages for the Franchisee
++ Buying a franchise is usually very expensive.
++ The process of applying for a franchise license is typically complex and time-consuming.
++ The franchisee is constrained by the standards and practices set by the franchisor, thus there's no scope for independent decision-making or innovation.
++ Each individual franchisee is at risk of a damaged reputation if another franchisee of the business makes a serious blunder.
 ## Vocabulary
