@@ -1,0 +1,1 @@
+## Whether fg(x) exists ?
