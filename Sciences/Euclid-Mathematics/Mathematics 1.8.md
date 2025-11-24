@@ -1,2 +1,2 @@
-## How to use two method to find the same tote ?
+## How to use two method to find the asymptote ?
 
