@@ -11,3 +11,9 @@
 - **Lack of finance:** struggles to raise finance as choice of sources for acquiring finance is limited.
 - **Difficult to attract experienced employees:** a small business may be unable to afford the wage and training required for skilled workers.
 - **Vulnerability:** when economic conditions change, it is harder for small businesses to survive as they lack resources.
+## Why Small Firms Still Exist?
+- **Size of the market:** when there is only a small market for a product, a firm will see no point in growing to a larger size. The market maybe small because:
+    - $\square$ the market is **local** - for example, the local hairdresser.
+    - $\square$ the final product maybe an expensive luxury item which only require small-scale production (**e.g.** custom-made paintings).
+    - $\square$ **personalized/customized services** can only be given by small firms, unlike large firms that mostly give standardized services (**e.g.** wedding cake makers).
+- **Access to capital is limited, so owners can't grow the firm.**
