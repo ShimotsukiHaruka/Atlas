@@ -35,5 +35,7 @@
 
 **FDI:** Foreign Direct Investment
 
+**GDP:** Gross Domestic Product
+
 
 
