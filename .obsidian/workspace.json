@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
+                "file": "Humanities/Buffett-Business/Business 1.5.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry 4.2"
+              "title": "Business 1.5.6"
             }
           },
           {
-            "id": "12338d0d75c5a8aa",
+            "id": "e6c1ef8ac76b3995",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Humanities/Buffett-Business/Business 1.6.1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "Business 1.6.1"
             }
           }
         ],
@@ -210,14 +212,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "12338d0d75c5a8aa",
+  "active": "e6c1ef8ac76b3995",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "Humanities/Buffett-Business/Business 1.5.6.md",
+    "Humanities/Buffett-Business/Business 1.5.5.md",
+    "Humanities/Buffett-Business/Business 1.6.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
+    "未命名.canvas",
     "Humanities/Hemingway-English/English 1.2.md",
     "Humanities/Buffett-Business/Business 1.4.2.md",
-    "Humanities/Buffett-Business/Business 1.5.5.md",
     "Humanities/Buffett-Business/Business 1.3.6.md",
     "Humanities/Buffett-Business/Business 1.4.3.md",
     "Humanities/Buffett-Business/Business 1.5.4.md",
