@@ -31,3 +31,9 @@
 
 **AGM:** Annual general meeting allows owners
 
+**MNCs:** Multiple National Company
+
+**FDI:** Foreign Direct Investment
+
+
+
