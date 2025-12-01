@@ -1,4 +1,3 @@
-
 ## Integrations
 
 ***M&As and takeovers can happen in one of 3 ways:***

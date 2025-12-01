@@ -1,4 +1,3 @@
-
 ## Business Objectives
 LLCs (UK) must state their objectives in the Memorandum of Association. In a partnership, partners should agree on the direction of their business.
 + Ltd (US)

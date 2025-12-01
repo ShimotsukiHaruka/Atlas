@@ -1,11 +1,10 @@
-
 ## Microfinance Providers ADVS. VS DISADVS.
 + **Advantages**
   + **Accessibility**: Microfinance helps those in poverty to become financially independent, whereas banks do not typically lend such small amounts and to this particular market segment.
   + **Job creation**: The effective use of microfinance can help create new job opportunities, with beneficial effects on society as a whole.
   + **Financial benefits**: Microfinance can help individuals build credit histories and gain access to larger financial services in the future.
 + **Disadvantages**
-  + **Lmmorality**: Microfinance institutions often charge higher interest rates than traditional banks, which can make it difficult for borrowers to repay their loans.
+  + **Immorality**: Microfinance institutions often charge higher interest rates than traditional banks, which can make it difficult for borrowers to repay their loans.
   + **Limited loan amounts**: Microfinance loans are typically small, which may not be  sufficient for larger business ventures or investments.
   + **Sustainability concerns**: Some microfinance institutions may struggle to remain financially sustainable.
 ## Public-Private Partnerships (PPP)

@@ -1,4 +1,3 @@
-
 ## Limited Companies
 + A limited company is owned by its shareholders who invest money in the company in exchange for shares.
   + Shareholders and the company have separate legal identities.

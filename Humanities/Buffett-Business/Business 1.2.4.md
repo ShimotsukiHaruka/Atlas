@@ -1,4 +1,3 @@
-
 ## A Sole Trader
 + A sale trader / sole proprietorship is a business owned and managed by one person.
 + It is run as an unincorporated business.

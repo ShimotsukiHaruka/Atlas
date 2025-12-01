@@ -1,4 +1,3 @@
-
 ## Public/Private LTD CO.
 + Public limited/held： Anybody could buy the stock
 + Private limited/held: Family and friends

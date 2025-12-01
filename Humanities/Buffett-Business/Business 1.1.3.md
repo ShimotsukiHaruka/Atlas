@@ -1,4 +1,3 @@
-
 **Tertiary:** intangible goods and services to the consumers. 
 **Firms:** the type of operations undertaken by them or the stages of production they are in.
 ## Business Message

@@ -1,4 +1,3 @@
-
 ## Suffer a loss vs Difference revenue
 $$
 \pi = Total \ revenue - Total \ cost

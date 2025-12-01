@@ -1,4 +1,3 @@
-
 ## External Economies Of Scale
 **Access to skilled workers:** Large firms can recruit workers trained by other firms. For example, when a new training institution for pilots and airline staff opens, all airline firms can enjoy economies of scale from having access to skilled workers, who are more efficient and productive, which helps to cut costs.
 

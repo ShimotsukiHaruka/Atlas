@@ -1,4 +1,3 @@
-
 ## Automation Industry
 + **Economical**
   Increase in unemployment rate by 5% 

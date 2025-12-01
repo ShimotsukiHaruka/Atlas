@@ -1,4 +1,3 @@
-
 ## Firms By Ownership
 Firms can also be classified on the basis of whether they are publicly owned or privately owned:
 + Public sector: this includes all firms owned and run by the government. Usually, defence, arms and nuclear industries of an economy are completey public. Public firms don't have a profit motive, but aim to provide essential services to the economy it governs.

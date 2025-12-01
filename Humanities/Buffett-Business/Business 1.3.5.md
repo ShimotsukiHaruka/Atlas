@@ -1,4 +1,3 @@
-
 ## Elkington's Triple Bottom Line
 ![enter image description here](https://images.theimpactinvestor.com/wp-content/uploads/2022/05/Tiple-bottom-line.jpg)
 

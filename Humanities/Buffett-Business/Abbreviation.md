@@ -1,4 +1,3 @@
-# Abbreviation
 **R&D:** Research and Development
 
 **USP:** Unique Selling Proposition

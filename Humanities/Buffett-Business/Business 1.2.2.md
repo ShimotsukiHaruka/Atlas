@@ -1,4 +1,3 @@
-
 ## Must Know Definitions
 + **Public goods:** goods that can be used by the general public, from which they will benefit.
 + **Merit goods:** goods which create a positive effect on the community and ought to be consumed more.
