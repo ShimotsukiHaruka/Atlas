@@ -17,6 +17,14 @@
 - MNCs may make use of transfer pricing and other tax avoidance measures to reduce the profits on which they pay tax to the government in the host country.
 - Domestic businesses may not be able to compete with MNC's efficiency, low costs, low prices and brand image, and may be forced to close shop.
 - MNCs may not act ethically or in a socially responsible way, especially by taking advantage of weak countries that gain a lot from the MNCs presence in their country. For example, exploiting workers with low wages and poor working conditions in a country where labor laws are weak.
+## Why Do Companies Want to Become Multinationals?
+
+- **Easier access to markets:** To be able to sell in new markets by locating in them, or countries closer to them.
+- **Lower logistics costs:** To reduce transport/distribution costs by producing nearer to markets.
+- **Cheaper supplies:** To secure supplies of cheaper raw materials by avoiding controls on exporting them.
+- **Cheaper labour:** Most often to take advantage of lower labour costs compared to the home country.
+- **Overcoming barriers to trade:** To avoid protectionist policies that make exported products more expensive, such as **high tariffs, low quotas** or **currency devaluation.**
+- **Reducing risk:** Having a second or third base can limit the damage from any disruption such as **political unrest, a pandemic** or a **natural disaster.**
 ## Vocabulary
 + Transfer pricing
 + illegal
