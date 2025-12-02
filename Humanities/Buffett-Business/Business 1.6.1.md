@@ -11,8 +11,10 @@
 - **Skill Transfer:** Transfers of **skills** and **expertise**, helping to develop the quality of the host country's labor force.
 - **GDP Growth:** MNCs add to the host country's **GDP growth** through their spending, for example, buying from local suppliers and through **Foreign Direct Investments (FDIs)**. 
 - ***Incentive for Domestic Firms:** Competition from MNCs acts as an **incentive** for domestic firms in the host country to improve their **competitiveness** and **efficiency**, e.g., Tesla Giga Factory in Shanghai.
-## Disad
-
+## Disadvantages to Host Country
+- MNCs may be accused of imposing their culture on the host country, perhaps at the expense of the richness of local culture.
+- Profits earned by MNCs may be remitted/sent back to the MNC's home country rather than being reinvested in the host economy.
+- MNCs may make use of transfer pricing and other tax avoidance measures to reduce the profits on which they pay tax to the government in the host country.
 ## Vocabulary
 + Transfer pricing
 + illegal
