@@ -12,3 +12,7 @@
 - **GDP Growth:** MNCs add to the host country's **GDP growth** through their spending, for example, buying from local suppliers and through **Foreign Direct Investments (FDIs)**. 
 - ***Incentive for Domestic Firms:** Competition from MNCs acts as an **incentive** for domestic firms in the host country to improve their **competitiveness** and **efficiency**, e.g., Tesla Giga Factory in Shanghai.
 ## Disad
+
+## Vocabulary
++ Transfer pricing
++ illegal
