@@ -36,5 +36,7 @@
 
 **GDP:** Gross Domestic Product
 
+**M&As:** Merger and Acquisitions
+
 
 
