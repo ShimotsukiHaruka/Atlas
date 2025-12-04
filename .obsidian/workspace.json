@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics Revision A1.md",
+                "file": "Sciences/Einstein-Physics/Physics 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics Revision A1"
+              "title": "Physics 1.1"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f",
+                "query": "per",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,13 +212,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "ab3c475070dd94cd",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Physics 1.2.md",
+    "Physics Revision A1.md",
     "Pasted image 20251203181633.png",
     "Pasted image 20251203181559.png",
     "Pasted image 20251203181503.png",
     "Sciences/Einstein-Physics/Physics 2.2.md",
-    "Physics Revision A1.md",
     "Humanities/Buffett-Business/Business 1.2.1.md",
     "TOK/TOK.md",
     "Humanities/Buffett-Business/Business 1.6.1.md",
@@ -253,7 +253,6 @@
     "Arts/VanGogh-Art/6.png",
     "Arts/VanGogh-Art/5.png",
     "Arts/VanGogh-Art/4.png",
-    "Arts/VanGogh-Art/3.png",
     "未命名.base"
   ]
 }
