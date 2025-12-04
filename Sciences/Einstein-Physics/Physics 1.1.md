@@ -5,7 +5,7 @@
 
 + Effect: Values scatter above and below the true value.
 
-+ Reduction:
++ **Reduction:
   + Repeat measurements and take the mean.
   + Use more precise instruments.
 
