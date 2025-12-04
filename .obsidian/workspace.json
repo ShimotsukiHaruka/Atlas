@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fdi",
+                "query": "f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +213,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ab3c475070dd94cd",
+  "active": "e1c3bc49e54783d1",
   "lastOpenFiles": [
     "Pasted image 20251203181633.png",
     "Pasted image 20251203181559.png",
