@@ -16,4 +16,5 @@ $\rightarrow$ The role (purpose) of finance can be categorized either as:
 - **capital expenditure** or
 - **revenue expenditure.**
 ## Vocabulary
-+ bonds
++ Bonds
++ Utility
