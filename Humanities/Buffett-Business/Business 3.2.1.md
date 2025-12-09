@@ -14,3 +14,9 @@ Internal sources of finance come from **within** the business using its own reso
 + Retained profit is often used for purchasing and/or upgrading fixed assets.
 + Some retained profit might also be kept in a contingency fund in case of emergencies and unforeseeable expenditure in the future.
 + The benefit of retained profit as a source of finance is that it does not incur any interest charges.
+## Sale of Assets
+- **Businesses in need of finance can**:
+    - Sell some of their fixed assets, especially their dormant assets (unused assets).
+    - Sell old/obsolete assets in order to purchase newer ones.
+    - Choose to relocate and sell their land, factories and buildings.
+    - Sell some of their fixed assets to survive a liquidity problem, and then lease them back so that their business is not disrupted.
