@@ -9,4 +9,8 @@ Internal sources of finance come from **within** the business using its own reso
 - Sole traders and partners are likely to use their own personal funds from their savings or contract a personal loan in order to finance the start-up of their business.
 - Friends and family may invest their personal funds into their business, perhaps in return for part-ownership, which may be organized through the creation of a privately held company and by offering shares to those investing funds.
 - Sole traders and partners who do not invest or risk any of their personal funds are highly unlikely to secure loans or finance for their business activity.
-## 
+## Retained profit
++ Retained profit is the value of profits that the business keeps (after paying taxes to the government and dividends to its shareholders) to use/reinvest within the business.
++ Retained profit is often used for purchasing and/or upgrading fixed assets.
++ Some retained profit might also be kept in a contingency fund in case of emergencies and unforeseeable expenditure in the future.
++ The benefit of retained profit as a source of finance is that it does not incur any interest charges.
