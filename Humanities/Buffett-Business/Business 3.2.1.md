@@ -20,4 +20,8 @@ Internal sources of finance come from **within** the business using its own reso
     - Sell old/obsolete assets in order to purchase newer ones.
     - Choose to relocate and sell their land, factories and buildings.
     - Sell some of their fixed assets to survive a liquidity problem, and then lease them back so that their business is not disrupted.
-## 
+## Vocabulary
++ Bank loan
++ Mortgage
++ Debenture
++ 
