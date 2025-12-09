@@ -15,6 +15,7 @@ Multinational companies can expect to win a number of contracts to help governme
 $\rightarrow$ The role (purpose) of finance can be categorized either as:
 - **capital expenditure** or
 - **revenue expenditure.**
+
 ## Vocabulary
 + Bonds
 + Utility
