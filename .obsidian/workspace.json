@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.2.1.md",
+                "file": "Humanities/Buffett-Business/Business 1.1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.2.1"
+              "title": "Business 1.1.1"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "is",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,10 +241,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "661c5f7b45efdfa5",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 3.1.1.md",
     "Humanities/Buffett-Business/Business 3.2.1.md",
+    "Humanities/Buffett-Business/Business 3.1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.3.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
