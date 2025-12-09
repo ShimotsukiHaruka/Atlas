@@ -20,6 +20,19 @@ Internal sources of finance come from **within** the business using its own reso
     - Sell old/obsolete assets in order to purchase newer ones.
     - Choose to relocate and sell their land, factories and buildings.
     - Sell some of their fixed assets to survive a liquidity problem, and then lease them back so that their business is not disrupted.
+## External Sources of Finance
+External sources of finance come from outside the business via external stakeholders, and are more likely to be used when:
+- A large sum of finance is required
+- The level of risk is low
+**Examples include:
+- Share capital
+- Loan capital
+- Overdrafts
+- Trade credit
+- Crowdfunding
+- Leasing
+- Microfinance providers
+- Business angles
 ## Vocabulary
 + Bank loan
 + Mortgage
