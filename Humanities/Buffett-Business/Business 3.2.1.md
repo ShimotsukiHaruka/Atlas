@@ -37,4 +37,3 @@ External sources of finance come from outside the business via external stakehol
 + Bank loan
 + Mortgage
 + Debenture
-+ 
