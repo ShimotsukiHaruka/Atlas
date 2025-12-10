@@ -11,5 +11,6 @@ Many businesses decide to ‘go public’ by floating their shares on a stock ex
 - Popular IPOs are heavily oversubscribed, which pushes up the share price.
 - Existing companies can raise further finance by selling more shares in a share placement. However, by issuing shares, it dilutes ownership and control of existing shareholders.
 - The process also involves many legalities and administrative procedures, with their associated costs such as hiring the services of specialist financial experts, which can be very expensive.
-IPO: The process of offering shares of a private corporation to the public in a new stock issuance of publicly listed firms.
+**IPO:** The process of offering shares of a private corporation to the public in a new stock issuance of publicly listed firms.
+
 

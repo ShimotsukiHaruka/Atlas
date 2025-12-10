@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipopath",
+                "query": "ipo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +197,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
