@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bce2406b2799dc8d",
+        "id": "a1eb3c7822d66268",
         "type": "tabs",
         "children": [
           {
-            "id": "54a17d155563f149",
+            "id": "41a1b04999d4b1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Hemingway-English/English 1.4.md",
+                "file": "Humanities/Buffett-Business/Business 3.2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English 1.4"
-            }
-          },
-          {
-            "id": "9a8805cce4edf34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanities/Hemingway-English/English SA1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English SA1"
+              "title": "Business 3.2.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +197,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9a8805cce4edf34c",
+  "active": "41a1b04999d4b1d1",
   "lastOpenFiles": [
-    "Humanities/Hemingway-English/English 1.4.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
     "Humanities/Hemingway-English/English SA1.md",
+    "Humanities/Hemingway-English/English 1.4.md",
     "Humanities/Buffett-Business/Business 3.2.2.md",
     "Humanities/Buffett-Business/Business 3.2.1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
@@ -228,7 +214,6 @@
     "Humanities/Buffett-Business/Business 1.4.2.md",
     "Humanities/Buffett-Business/Business 1.1.2.md",
     "Humanities/Buffett-Business/Business 1.1.1.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.3.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "TOK/TOK.md",
