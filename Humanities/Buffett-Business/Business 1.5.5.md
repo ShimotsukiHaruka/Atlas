@@ -19,4 +19,4 @@
 + The process of applying for a franchise license is typically complex and time-consuming.
 + The franchisee is constrained by the standards and practices set by the franchisor, thus there's no scope for independent decision-making or innovation.
 + Each individual franchisee is at risk of a damaged reputation if another franchisee of the business makes a serious blunder.
-## Vocabulary
+
