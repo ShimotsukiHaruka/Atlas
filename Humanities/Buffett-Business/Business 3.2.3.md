@@ -10,3 +10,4 @@ These are long-term sources of finance obtained from commercial lenders such as 
 - Mortgages can be for a long period of time (up to 50 years).
 - Some small businesses may choose to remortgage their premises/property to raise capital.
 - A remortgage is the process of paying off one mortgage with the proceeds from a new mortgage using the same property as security/collateral while staying with the same lender. This may be done to reduce monthly payments, secure a better interest rate or shorten the time it will take to pay back.
+## 
