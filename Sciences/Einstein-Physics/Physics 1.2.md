@@ -7,7 +7,10 @@ $$
 Scalar \times Scalar=Scalar
 $$
 $$
-Vector \times Vector=Scalar
+Vector ⋅ Vector=Scalar
+$$
+$$
+Vector \times Vector=Vector
 $$
 
 ---
