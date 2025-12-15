@@ -12,4 +12,4 @@
 + Trade credit allows a business to 'buy now and pay later'.
 + Although a sale is made at the time of purchase, the seller or credit provider does not receive any cash from the buyer until a later date.
 + Businesses/suppliers that offer trade credit (known as creditors) usually allow between 30-90 days for their customers (known as debtors) to pay.
-## 
+	## 
