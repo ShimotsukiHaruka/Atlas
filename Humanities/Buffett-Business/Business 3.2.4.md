@@ -23,3 +23,5 @@ Leasing involves paying for assets, such as vehicles and machinery, over a perio
 - The lessee pays rental income to hire assets from the lessor, who is the legal owner of the assets.
 - It can be cheaper to lease assets in the short term such as machinery, equipment, vehicles and buildings, etc.
 - Hence, leasing is suitable for business customers who do not have the initial finance to buy such assets.
+## Vocabulary
++ Equity
