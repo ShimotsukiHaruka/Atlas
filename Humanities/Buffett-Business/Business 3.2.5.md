@@ -11,3 +11,8 @@
 - It includes other basic financial services such as savings, insurance and the transfer of money from high-income to lower-income countries.
 - Microfinance providers enable the disadvantaged members of society to gain access to essential financial services to help eradicate poverty.
 - The funds are approved for microenterprise development since access to banking and insurance services may be very limited for small businesses.
+## Business Angels/Angel Investors
+- These are extremely wealthy individuals who choose to invest their own money in businesses that offer high growth potential, i.e. high-risk, high-return business ventures.
+- Business angels are likely to take a proactive role in the setting up or running of the business venture.
+- Business angels provide funding for firms that are unable to secure loans from banks and/or too small to attract the attention of venture capitalists.
+- With their wealth of experience and financial backing, angel investors can be a major advantage to the survival and success of a new business.
