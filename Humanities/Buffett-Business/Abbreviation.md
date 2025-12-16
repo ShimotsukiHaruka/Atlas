@@ -40,5 +40,6 @@
 
 **CDS:** Credit Default Swap
 
+**NGOs:** Non-Governmental Organizations
 
 
