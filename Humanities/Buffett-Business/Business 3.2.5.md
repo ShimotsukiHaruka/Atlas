@@ -16,4 +16,9 @@
 - Business angels are likely to take a proactive role in the setting up or running of the business venture.
 - Business angels provide funding for firms that are unable to secure loans from banks and/or too small to attract the attention of venture capitalists.
 - With their wealth of experience and financial backing, angel investors can be a major advantage to the survival and success of a new business.
-## 
+## Ba Criteria For Investment
+Business angels look at a number of criteria before committing their capital in an investment project, including:
+- Business plan: the long-term aim and purpose of the business venture creates direction and identity for the business, which is central to securing finance from investors.
+- Return on investment: businesses need to show good potential to be highly profitable.
+- People: success will only materialize if the business has a good team of skilled and talented people.
+- Track record: Investors will assess the past track record of a business and its management before investing any capital. It can be an investigation into the firm’s ability to pay back previous lenders and the success record of the entrepreneurs.
