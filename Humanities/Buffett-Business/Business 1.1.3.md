@@ -36,5 +36,7 @@ Changes in the external environment will create opportunities as well as challen
 + **Extent**
 + **Robotization**
 
+![alt text](1.jpg)
+
 
  

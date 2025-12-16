@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 1.1.1.md",
+                "file": "Sciences/Einstein-Physics/Physics Revision A1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 1.1.1"
+              "title": "Physics Revision A1"
             }
           }
         ]
@@ -199,34 +199,35 @@
   },
   "active": "599729c0c0fef38c",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Physics 1.2.md",
+    "Sciences/Einstein-Physics/Physics 1.1.md",
+    "Humanities/Buffett-Business/Business 1.1.3.md",
+    "Humanities/Buffett-Business/Business 1.4.3.md",
+    "Humanities/Buffett-Business/Business 1.5.1.md",
+    "Humanities/Buffett-Business/Business 1.4.2.md",
+    "Humanities/Buffett-Business/Business 1.4.1.md",
+    "Humanities/Buffett-Business/Business 1.3.6.md",
+    "Humanities/Buffett-Business/Business 1.3.5.md",
+    "Humanities/Buffett-Business/Business 1.3.4.md",
+    "Humanities/Buffett-Business/Business 1.3.3.md",
+    "Humanities/Buffett-Business/Business 1.3.2.md",
+    "Humanities/Buffett-Business/Business 1.3.1.md",
+    "Humanities/Buffett-Business/Business 1.2.8.md",
+    "Humanities/Buffett-Business/Business 1.2.7.md",
+    "Humanities/Buffett-Business/Business 1.2.6.md",
+    "Humanities/Buffett-Business/Business 1.2.5.md",
+    "Humanities/Buffett-Business/Business 1.2.4.md",
+    "Humanities/Buffett-Business/Business 1.2.3.md",
+    "Humanities/Buffett-Business/Business 1.1.2.md",
+    "Humanities/Buffett-Business/Business 1.1.1.md",
     "Sciences/Einstein-Physics/1.jpg",
     "Humanities/Buffett-Business/Business 3.2.4.md",
     "Humanities/Buffett-Business/1.jpg",
-    "Humanities/Buffett-Business/Business 1.1.1.md",
     "Humanities/Buffett-Business/~.tmp",
     "Humanities/Buffett-Business/Business 3.2.5.md",
     "Humanities/Buffett-Business/Abbreviation.md",
-    "Humanities/Buffett-Business/Business 1.2.8.md",
-    "Humanities/Buffett-Business/Business 1.3.4.md",
     "Humanities/Buffett-Business/Business 1.5.5.md",
     "README.md",
-    "Humanities/Buffett-Business/Business 1.2.7.md",
-    "Humanities/Buffett-Business/Business 3.2.3.md",
-    "Sciences/Einstein-Physics/Physics Revision A1.md",
-    "Sciences/Einstein-Physics/Physics 2.2.md",
-    "Sciences/Einstein-Physics/Physics 2.1.md",
-    "Sciences/Einstein-Physics/Physics 1.2.md",
-    "Sciences/Einstein-Physics/Physics 1.1.md",
-    "Humanities/Buffett-Business/Business 3.2.2.md",
-    "Humanities/Buffett-Business/Business 3.2.1.md",
-    "Humanities/Buffett-Business/Business 1.5.6.md",
-    "Humanities/Buffett-Business/Business 1.5.4.md",
-    "Humanities/Buffett-Business/Business 1.4.2.md",
-    "Humanities/Buffett-Business/Business 1.2.5.md",
-    "Humanities/Buffett-Business/Business 1.5.1.md",
-    "Humanities/Buffett-Business/Business 1.2.6.md",
-    "Humanities/Buffett-Business/Business 1.5.3.md",
-    "Humanities/Buffett-Business/Business 1.5.2.md",
     "Resources/Pasted image 20251203181633.png",
     "Resources/Pasted image 20251203181559.png",
     "Resources/Pasted image 20251203181503.png",
@@ -238,7 +239,6 @@
     "Humanities/Buffett-Business/2.png",
     "Humanities/Buffett-Business/1.png",
     "Arts/VanGogh-Art/6.png",
-    "Arts/VanGogh-Art/5.png",
     "未命名.base"
   ]
 }
