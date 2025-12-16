@@ -16,3 +16,4 @@
 - Business angels are likely to take a proactive role in the setting up or running of the business venture.
 - Business angels provide funding for firms that are unable to secure loans from banks and/or too small to attract the attention of venture capitalists.
 - With their wealth of experience and financial backing, angel investors can be a major advantage to the survival and success of a new business.
+## 

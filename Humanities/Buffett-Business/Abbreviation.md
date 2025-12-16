@@ -42,4 +42,6 @@
 
 **NGOs:** Non-Governmental Organizations
 
+**ROI:** Return on Investment 
+
 
