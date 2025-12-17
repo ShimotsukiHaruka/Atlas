@@ -22,3 +22,17 @@ Business angels look at a number of criteria before committing their capital in 
 - Return on investment: businesses need to show good potential to be highly profitable.
 - People: success will only materialize if the business has a good team of skilled and talented people.
 - Track record: Investors will assess the past track record of a business and its management before investing any capital. It can be an investigation into the firm’s ability to pay back previous lenders and the success record of the entrepreneurs.
+## Appropriateness Of A Source Of Finance = Spaced
+**Spaced:**
++ Purpose of finance
++ Amount required
++ Costs
++ External influences
++ Duration required
+
+**The factors that influence decisions on the appropriateness of a source of finance include:**
++ the expected timescale,
++ the business's legal structure,
++ the need to retain control,
++ the level of existing debt,
++ the cost of the finance and the use to which the funds are to be put.
