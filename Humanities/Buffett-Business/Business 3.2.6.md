@@ -14,7 +14,4 @@
 **Some sources of finance may result in the original owners of the business losing some, or even complete control of it, namely:**
 - Share capital: If a private or publicly held company makes a succession of share issues, it may be that the number of new shares issued is greater than the number of 'original' shares. In this case, the new shareholders may gain control of the company. However, it may be possible for the company to issue shares that do not carry full voting rights to retain control, but this is less attractive for potential investors.
 - Business angels: smaller businesses that do not trade as companies can also lose some degree of control. E.g. business angels may only agree to provide finance to what may be a risky business if they have a say in how the business is managed, meaning owning shares/equity that gives them voting rights.
-## Investment Type Model
-+ Reward
-+ Equity
-+ 
+

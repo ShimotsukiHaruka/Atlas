@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Business 3.2.6"
             }
+          },
+          {
+            "id": "653acff685f47098",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Humanities/Buffett-Business/Pasted image 20251217145943.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251217145943"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,15 +210,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a12f6c6241a6fdf6",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Abbreviation.md",
+    "Humanities/Buffett-Business/Pasted image 20251217150002.png",
+    "Humanities/Buffett-Business/Pasted image 20251217145943.png",
+    "Business 3.2.7.md",
     "Humanities/Buffett-Business/Business 3.2.6.md",
+    "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 3.2.3.md",
     "Humanities/Buffett-Business/Business 3.2.4.md",
     "Humanities/Buffett-Business/Business 3.2.5.md",
-    "Pasted image 20251217150002.png",
-    "Pasted image 20251217145943.png",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.4.md",
@@ -226,8 +240,6 @@
     "Humanities/Laozi-Chinese/Chinese 1.1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Buffett-Business/1.jpg",
-    "Sciences/Einstein-Physics/Physics Revision A1.md",
-    "Sciences/Einstein-Physics/Physics 2.2.md",
     "Sciences/Einstein-Physics/~.tmp",
     "Sciences/Einstein-Physics/1.jpg",
     "Humanities/Buffett-Business/~.tmp",
