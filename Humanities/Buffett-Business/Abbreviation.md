@@ -44,5 +44,5 @@
 
 **ROI:** Return on Investment 
 
-**
+**ATM:** Automatic Teller Machine
 
