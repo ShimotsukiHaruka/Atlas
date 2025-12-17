@@ -4,3 +4,4 @@
 ![[Pasted image 20251217145943.png]]
 ## The Business's Legal Structure
 ![[Pasted image 20251217150002.png]]
+

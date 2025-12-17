@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business 3.2.6.md",
+                "file": "Humanities/Buffett-Business/Business 3.2.6.md",
                 "mode": "source",
                 "source": false
               },
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NGO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,15 +214,15 @@
   },
   "active": "a12f6c6241a6fdf6",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 3.2.5.md",
+    "Humanities/Buffett-Business/Business 3.2.6.md",
+    "Humanities/Buffett-Business/Business 3.2.4.md",
     "Pasted image 20251217150002.png",
     "Pasted image 20251217145943.png",
-    "Humanities/Buffett-Business/Business 3.2.5.md",
-    "Business 3.2.6.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.4.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.3.md",
-    "Humanities/Buffett-Business/Business 3.2.4.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 1.2.8.md",
     "Humanities/Buffett-Business/Business 1.2.7.md",
@@ -254,7 +254,6 @@
     "Arts/Sakamoto-Music/Magnolia.mp3",
     "Humanities/Buffett-Business/3.png",
     "Humanities/Buffett-Business/2.png",
-    "Humanities/Buffett-Business/1.png",
     "未命名.base"
   ]
 }
