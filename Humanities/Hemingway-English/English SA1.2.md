@@ -1,7 +1,12 @@
 ## Time
 1 hr 15 min
 ## Paper 1 Writing
-1. Question.... |Blog|Email|Journal|
+1. Question.....
+
+| Blog | Email | Journal |
+| ---- | ----- | ------- |
+|      |       |         |
+
 2. Q......
 3. Q......
 ## Paper 1
