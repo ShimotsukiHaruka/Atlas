@@ -18,6 +18,6 @@ People who run business organizations are executive managers.
 **Entrepreneurs are executives with enterprise that**
 + have business know-how
 + have willingness to take risks
-+ make decision to set up and run a bus
++ make decision to set up and run a business
 ## Vocabulary
 + Stakeholder
