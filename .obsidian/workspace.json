@@ -11,12 +11,14 @@
             "id": "653acff685f47098",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/5.png"
+                "file": "Sciences/Einstein-Physics/Physics 1.1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "5"
+              "icon": "lucide-file",
+              "title": "Physics 1.1"
             }
           }
         ]
@@ -197,6 +199,10 @@
   },
   "active": "653acff685f47098",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Physics 1.2.md",
+    "Sciences/Einstein-Physics/Physics 1.1.md",
+    "Sciences/Einstein-Physics/1.jpg",
+    "Humanities/Buffett-Business/5.png",
     "Humanities/Buffett-Business/6.png",
     "Humanities/Buffett-Business/Business 3.2.7.md",
     "Humanities/Buffett-Business/Business 3.2.6.md",
@@ -208,7 +214,6 @@
     "Humanities/Buffett-Business/Business 1.1.2.md",
     "Humanities/Buffett-Business/Business 1.1.1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
-    "Humanities/Buffett-Business/5.png",
     "Humanities/Buffett-Business/Business 3.2.3.md",
     "Humanities/Buffett-Business/Business 3.2.4.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
@@ -223,10 +228,8 @@
     "Humanities/Buffett-Business/Business 1.2.3.md",
     "Humanities/Buffett-Business/Business 1.2.1.md",
     "Humanities/Buffett-Business/Business 1.1.4.md",
-    "Humanities/Buffett-Business/Business 3.1.1.md",
     "Humanities/Buffett-Business/1.jpg",
     "Sciences/Einstein-Physics/~.tmp",
-    "Sciences/Einstein-Physics/1.jpg",
     "Humanities/Buffett-Business/~.tmp",
     "Resources/Pasted image 20251203181633.png",
     "Resources/Pasted image 20251203181559.png",
