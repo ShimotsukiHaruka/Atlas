@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Humanities/Buffett-Business/Business 3.2.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Business 3.2.7"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "653acff685f47098",
   "lastOpenFiles": [
+    "README.md",
     "Humanities/Hemingway-English/English SA1.1.md",
     "Sciences/Einstein-Physics/4.png",
     "Sciences/Einstein-Physics/3.png",
