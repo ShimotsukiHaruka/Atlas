@@ -1,7 +1,7 @@
 ## The Expected Timescale
 - Short-term sources of finance are needed for a limited period of time, normally less than one year.
 - Long-term sources of finance are those that are needed over a longer period of time, usually over a year.
-![[Humanities/Buffett-Business/5.png]]
+![[7.png]]
 ## The Business's Legal Structure
 ![[Humanities/Buffett-Business/6.png]]
 
