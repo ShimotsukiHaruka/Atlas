@@ -10,4 +10,3 @@
 
 ## If the cost of product decrease, the output increase?
 + Depend on it is average cost/total cost
-+ 
