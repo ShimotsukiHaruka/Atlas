@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Laozi-Chinese/Chinese 1.1.md",
+                "file": "Sciences/Einstein-Physics/Physics SA1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chinese 1.1"
+              "title": "Physics SA1"
             }
           }
         ]
@@ -199,6 +199,14 @@
   },
   "active": "653acff685f47098",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Assets/4.png",
+    "Sciences/Einstein-Physics/Assets/3.png",
+    "Sciences/Einstein-Physics/Assets/2.png",
+    "Sciences/Einstein-Physics/Assets/2.jpg",
+    "Sciences/Einstein-Physics/Assets/1.jpg",
+    "Sciences/Einstein-Physics/Assets",
+    "Sciences/Einstein-Physics/New folder",
+    "Humanities/Laozi-Chinese/Chinese 1.1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Hemingway-English/English SA1.2.md",
     "Humanities/Hemingway-English/English SA1.1.md",
@@ -219,10 +227,6 @@
     "Humanities/Buffett-Business/Assets/1.jpg",
     "Guide/1.png",
     "Guide/2.png",
-    "Guide/3.png",
-    "Humanities/Buffett-Business/Assets/5.png",
-    "Humanities/Buffett-Business/Assets/6.png",
-    "Humanities/Buffett-Business/Assets/7.png",
     "Humanities/Buffett-Business/Business 3.2.2.md",
     "Humanities/Buffett-Business/Business 3.2.1.md",
     "Humanities/Buffett-Business/Business 3.1.1.md",
@@ -233,8 +237,6 @@
     "Humanities/Buffett-Business/Business 1.5.4.md",
     "Humanities/Buffett-Business/Business 1.5.3.md",
     "Humanities/Buffett-Business/Business 1.5.2.md",
-    "Humanities/Buffett-Business/Business 1.5.1.md",
-    "Humanities/Buffett-Business/Business 1.4.3.md",
     "Guide",
     "Humanities/Buffett-Business/Assets",
     "Humanities/Buffett-Business/New folder",
@@ -243,8 +245,6 @@
     "Resources/Markdown 快速入门指南.pdf",
     "Sciences/Einstein-Physics/~.tmp",
     "未命名.canvas",
-    "未命名",
-    "Arts/Sakamoto-Music/Magnolia.mp3",
-    "未命名.base"
+    "未命名"
   ]
 }
