@@ -19,3 +19,4 @@
 1) How much finance will you need to implement it? To finance what exactly? Show your calculations.  
 2) What sources of finances are you going to use? Justify your choices.
 (In around 300 words)
+- [ ] Finish
