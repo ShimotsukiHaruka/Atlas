@@ -1,15 +1,15 @@
 # Physics 1.2
 ## Random and systematic errors
-🔹 **Random errors
+🔹 **Random errors**
 + Cause: Uncontrollable fluctuations (e.g., parallax in reading, small environmental changes).
 
 + Effect: Values scatter above and below the true value.
 
-+ **Reduction:
++ **Reduction:**
   + Repeat measurements and take the mean.
   + Use more precise instruments.
 
-🔹 **Systematic errors
+🔹 **Systematic errors**
 + Cause: Faulty methods or instruments (e.g., mis calibrated scale, zero error).
 
 + Effect: All values shifted in the same direction away from the true value.

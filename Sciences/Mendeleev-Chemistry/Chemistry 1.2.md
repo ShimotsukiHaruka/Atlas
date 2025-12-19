@@ -1,4 +1,3 @@
-# Chemistry 1.2
 ## How do we know what the sun is made of?
 + Hydrogen - 70%
 + Helium - 28%

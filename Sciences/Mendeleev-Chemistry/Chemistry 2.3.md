@@ -1,4 +1,3 @@
-# Chemistry 2.3
 ## Percentage Composition by Mass
 $$\text{\% by mass} = A_r \times \frac{n}{M_r} \times 100$$
 **Where:**

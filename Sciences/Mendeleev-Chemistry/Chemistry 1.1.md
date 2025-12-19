@@ -1,4 +1,3 @@
-# Chemistry
 ## Deflected:
 $$^{14}_{6}\text{C}$$
 ## Definitions

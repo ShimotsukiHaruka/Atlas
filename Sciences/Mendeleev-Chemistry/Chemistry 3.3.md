@@ -1,4 +1,3 @@
-# Chemistry 3.3
 ## Calculate
 **How do you calculate yield?**
 

@@ -1,4 +1,3 @@
-# Chemistry 3.1
 ## Why Cl⁻ have high ionization energy than S²⁻ ? 
 **Cause:**
 *   Cl⁻ has the same number of electron shells (isoelectronic with S²⁻).
