@@ -6,7 +6,7 @@
 
 **STEEPLE:** Social, Technological, Economic, Environmental, Political, Legal, Ethical
 
-**SMART:** Specific, Measurable, Agreed, Realistic, Time-specific
+**SMART:** Specific, Measurable, Agreed, Realistic, Time-bonding
 
 **CSR:** Corporate Social Responsibility
 
