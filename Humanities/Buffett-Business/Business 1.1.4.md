@@ -46,6 +46,4 @@
 + Knock-off
 + Go bankrupt
 + Insist
-## Mind Map
 
-![alt text](1.jpg)
