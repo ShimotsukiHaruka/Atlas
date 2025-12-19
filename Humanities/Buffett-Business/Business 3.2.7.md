@@ -12,7 +12,7 @@
 - The business’s financial situation: If very profitable, it may be able to use retained profits, or at least be able to provide evidence to banks or other investors that it can repay loans.
 - The business’s reputation: A reputation as a reliable and popular business may also enable its managers to persuade suppliers to offer increased trade credit, or assist in negotiating loans at favorable rates of interest, or in persuading shareholders to purchase more of the company’s shares.
 - The business environment: If sales in a market are growing, a business’s revenues should increase, which may help it finance the repayments on a loan in full and on time. On the other hand, if interest rates are high, businesses may seek alternative sources of finance such as crowdfunding.
-## Homework
+## Homework 
 **ATL: Financing A Business**  
 + Come up with a business idea that you believe will solve a problem.  
 + Formulate a suitable business plan where you mention:  
