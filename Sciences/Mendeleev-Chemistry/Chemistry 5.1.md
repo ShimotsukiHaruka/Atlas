@@ -6,4 +6,4 @@ $$-----------------------------------------\longrightarrow$$
 + enthalpy $\Delta H$
 + entropy $\Delta S$
 ## Disorder
-Fewer particle$--------------------\longrightarrow$
+Fewer particle$--------------------\longrightarrow$ More particles() 
