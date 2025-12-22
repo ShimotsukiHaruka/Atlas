@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 1.2.1.md",
+                "file": "Sciences/Mendeleev-Chemistry/Chemistry 3.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 1.2.1"
+              "title": "Chemistry 3.3"
             }
           }
         ]
@@ -199,6 +199,11 @@
   },
   "active": "653acff685f47098",
   "lastOpenFiles": [
+    "Sciences/Mendeleev-Chemistry/Chemistry 3.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.2.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 2.1.md",
+    "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
+    "Humanities/Buffett-Business/Business 1.2.1.md",
     "Sciences/Einstein-Physics/Physics 2.2.md",
     "Sciences/Einstein-Physics/Physics 2.1.md",
     "Sciences/Einstein-Physics/Physics 1.2.md",
@@ -213,7 +218,6 @@
     "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 1.1.md",
     "Sciences/Turing-Computer-Science/Computer-Science 1.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.3.md",
@@ -221,10 +225,6 @@
     "Sciences/Mendeleev-Chemistry/Chemistry 4.2.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 4.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.4.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 3.3.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 3.2.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 3.1.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 2.3.md",
     "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",
