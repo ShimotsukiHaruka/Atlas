@@ -8,5 +8,7 @@ $$ ATC=AVC+AFC$$
 →Total costs can be determined by adding together the total direct materials and labor costs as well as the total manufacturing overhead costs.
 ## Total VS Average cost
 $ATC=\frac{TC}{Output}$
+## Fixed vs Variable Expenses
+![enter image description here](https://cdn.gobankingrates.com/wp-content/uploads/2024/04/image.png?quality=75&w=800&webp=1)
 ## Vocabulary
 + Components

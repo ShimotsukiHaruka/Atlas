@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.3.1.md",
+                "file": "Humanities/Buffett-Business/Business 3.2.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.3.1"
+              "title": "Business 3.2.6"
             }
           }
         ],
@@ -214,9 +214,18 @@
   },
   "active": "c7cd828dcc3d687e",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 3.2.4.md",
-    "Humanities/Buffett-Business/Business 3.3.1.md",
     "Humanities/Buffett-Business/Business 3.2.7.md",
+    "Humanities/Buffett-Business/Business 3.3.1.md",
+    "Humanities/Buffett-Business/Business 1.3.5.md",
+    "Humanities/Buffett-Business/Business 1.3.6.md",
+    "Humanities/Buffett-Business/Business 1.3.4.md",
+    "Humanities/Buffett-Business/Business 1.3.3.md",
+    "Humanities/Buffett-Business/Business 1.3.2.md",
+    "Humanities/Buffett-Business/Business 1.3.1.md",
+    "Humanities/Buffett-Business/Business 1.2.8.md",
+    "Humanities/Buffett-Business/Business 1.2.6.md",
+    "Humanities/Buffett-Business/Business 1.2.4.md",
+    "Humanities/Buffett-Business/Business 3.2.4.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.3.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 2.2.md",
@@ -231,15 +240,6 @@
     "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.6.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.5.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.4.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.3.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.2.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.1.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 1.1.md",
-    "Sciences/Turing-Computer-Science/Computer-Science 1.1.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry 4.3.md",
     "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",
