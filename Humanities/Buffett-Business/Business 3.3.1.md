@@ -38,5 +38,6 @@ $$Average \ Fixed \ Cost \ (AFC) = \frac{Total \ Fixed \ Cost \ (TFC)}{Total \ O
 - Delivery/shipping charges
 - Sales commissions
 - Advertising and publicity
+
 ## Vocabulary
 + Components
