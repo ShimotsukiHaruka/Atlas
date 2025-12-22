@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Business 3.3.1"
             }
+          },
+          {
+            "id": "59e60015011c1d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/Business 3.3.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business 3.3.2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,10 +226,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c7cd828dcc3d687e",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 3.2.7.md",
     "Humanities/Buffett-Business/Business 3.3.1.md",
+    "Humanities/Buffett-Business/Business 3.3.2.md",
+    "Humanities/Buffett-Business/Business 3.2.7.md",
     "Humanities/Buffett-Business/Business 3.2.6.md",
     "Humanities/Buffett-Business/Business 1.3.5.md",
     "Humanities/Buffett-Business/Business 1.3.6.md",
@@ -239,7 +254,6 @@
     "Sciences/Einstein-Physics/Physics 1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.8.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.7.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
     "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",
