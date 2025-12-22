@@ -6,5 +6,7 @@ Light industry VS Heavy industry (The differences in capital)
 $$Product\ Cost \ Formula=Direct \ Material \ Cost + Direct \ Labor \ Cost + Manufacturing \ Overhead \ Cost$$
 $$ ATC=AVC+AFC$$
 →Total costs can be determined by adding together the total direct materials and labor costs as well as the total manufacturing overhead costs.
+## Total VS Average cost
+$ATC=\frac{TC}{Output}$
 ## Vocabulary
 + Components
