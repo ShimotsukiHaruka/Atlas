@@ -23,6 +23,7 @@ $$Average \ Cost \ (AC) = Average \ Variable \ Cost \ (AVC) + Average \ Fixed\  
 + **Cost and revenue:** Maximize profit
    + Ex: Sales division  
    + Add in overall profitability
+**e.g.**
 + IT C
 + Sales P
 + Logistics C
