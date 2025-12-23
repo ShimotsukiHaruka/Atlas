@@ -9,5 +9,5 @@ $$-----------------------------------------\longrightarrow$$
 Fewer particle $--------------------\longrightarrow$ More particles(moles of product) 
 Solid $-----------\longrightarrow$ Liquid $-----------\longrightarrow$ Air
 ## Spontaneous
-Phy
+
 
