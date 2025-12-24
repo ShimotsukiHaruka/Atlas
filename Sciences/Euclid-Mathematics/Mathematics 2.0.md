@@ -1,3 +1,5 @@
 ## Vocabulary
 + reciprocal
 + inverse
++ Inflexion
++ 
