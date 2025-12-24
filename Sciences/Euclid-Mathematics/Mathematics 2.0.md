@@ -5,4 +5,4 @@
 + Sketch
 ## Stationary Point of Inflexion
 **Definition:** 
-
+## Cubic Function
