@@ -1,13 +1,24 @@
 ## Revenue
 + Revenue Is The Total Income A Firm Earns From The Sale Of Its Goods And Services.
-**The More The Sales, The More The Revenue.**
-Total Revenue Formula
-Total Revenue =
++ The More The Sales, The More The Revenue.
+## Total Revenue Formula
+**Total Revenue = Number of Units Sold × Price Per Unit**
 
-Number Of Units Sold X 2/3x Per Unit
+$$
+TR = Q \times P
+$$
+**Where:**
+- \( TR \) = Total Revenue
+- \( Q \) = Quantity Sold
+- \( P \) = Price Per Unit
 
-Total Revenue (TR) = No. Of Units Sold (Sales) * Price Per Unit P = Q * P
+## Average Revenue Formula
+**Average Revenue = Total Revenue ÷ Number of Units Sold**
 
-Average Revenue = Total Revenue (TR) / No. Of Units Sold (Sales) = Price Per Unit P
-
-AR = TR / Q = Q * P / Q = P
+$$
+AR = \frac{TR}{Q} = \frac{Q \times P}{Q} = P
+$$
+**Where:**
+- \( AR \) = Average Revenue
+### Key Takeaway:
+Average Revenue equals the Price Per Unit (AR = P).
