@@ -17,3 +17,14 @@ Indirect costs, also known as overheads, are those that cannot be clearly traced
 - For example, rent and lighting costs can be associated with all areas of a business rather than being directly linked to the output of a particular product.
 - Other examples of overheads include: brand advertising, legal expenses, administrative staff salaries, insurance, security, stationery, shipping and delivery costs, utility bills and accounting fees.
 > Indirect costs (overheads) can be fixed or variable, but they are difficult or somewhat subjective to allocate to cost and profit centers.
+## Atl: What Types Of Costs Are These?
+- Advertising Costs
+- Capital Equipment
+- Furniture, e.g. Office Tables And Chairs
+- Ingredients
+- Office Supplies
+- Packaging (Food Wrapping)
+- Rent (Of Commercial Premises)
+- Salaries For Managers
+- Utility Bills (Gas, Water And Electricity)
+- Wages For Employees
