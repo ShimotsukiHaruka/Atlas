@@ -22,3 +22,6 @@ $$
 - \( AR \) = Average Revenue
 ### Key Takeaway:
 Average Revenue equals the Price Per Unit (AR = P).
+## Revenue Growth
++ Lego, Which Is Danish For To "Play Well", The Toymaker Founded In 1935, Is The World's Biggest Toy Company As Measured By Sales Revenue.
++ Despite The COVID-19 Global Pandemic, Lego Achieved Double-Digit Sales And Profit Growth In Both 2020 And 2021.
