@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 1.2.5.md",
+                "file": "TOK/TOK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 1.2.5"
+              "title": "TOK"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "direct ",
+                "query": "!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,6 +214,12 @@
   },
   "active": "a7b3a6e89581c6a2",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 1.4.3.md",
+    "Humanities/Buffett-Business/Business 1.2.6.md",
+    "Humanities/Buffett-Business/Business 1.3.2.md",
+    "Humanities/Buffett-Business/Business 1.4.2.md",
+    "Humanities/Buffett-Business/Business 3.2.5.md",
+    "Humanities/Buffett-Business/Business 1.2.5.md",
     "Humanities/Buffett-Business/Business 1.2.4.md",
     "Humanities/Buffett-Business/Business 1.2.3.md",
     "Humanities/Buffett-Business/Business 1.2.1.md",
@@ -225,7 +231,6 @@
     "Humanities/Buffett-Business/Business 3.2.2.md",
     "Humanities/Buffett-Business/Business 3.2.3.md",
     "Humanities/Buffett-Business/Business 3.2.4.md",
-    "Humanities/Buffett-Business/Business 3.2.5.md",
     "Humanities/Buffett-Business/Business 3.2.6.md",
     "Humanities/Buffett-Business/Business 3.2.7.md",
     "Humanities/Buffett-Business/Business 3.3.1.md",
@@ -235,11 +240,6 @@
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.6.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.8.md",
-    "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
-    "Humanities/Buffett-Business/Business 1.6.1.md",
-    "Humanities/Buffett-Business/Business 1.5.6.md",
-    "Humanities/Buffett-Business/Business 1.5.5.md",
-    "Humanities/Buffett-Business/Business 1.5.4.md",
     "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",
