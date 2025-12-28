@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Euclid-Mathematics/Mathematics SA1.md",
+                "file": "Humanities/Buffett-Business/Business 1.1.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematics SA1"
+              "title": "Business 1.1.3"
             }
           }
         ],
@@ -212,10 +212,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "631318fd3ac49283",
   "lastOpenFiles": [
-    "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
+    "Humanities/Buffett-Business/Business 1.1.4.md",
+    "Humanities/Buffett-Business/Business 1.1.3.md",
+    "Humanities/Buffett-Business/Business 1.1.2.md",
+    "Humanities/Buffett-Business/Business 1.1.1.md",
     "Sciences/Euclid-Mathematics/Mathematics SA1.md",
+    "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Humanities/Buffett-Business/Business 3.3.3.md",
     "TOK/TOK.md",
     "Humanities/Buffett-Business/Business 1.4.3.md",
@@ -227,9 +231,6 @@
     "Humanities/Buffett-Business/Business 1.2.4.md",
     "Humanities/Buffett-Business/Business 1.2.3.md",
     "Humanities/Buffett-Business/Business 1.2.1.md",
-    "Humanities/Buffett-Business/Business 1.1.4.md",
-    "Humanities/Buffett-Business/Business 1.1.2.md",
-    "Humanities/Buffett-Business/Business 1.1.1.md",
     "Humanities/Buffett-Business/Business 3.1.1.md",
     "Humanities/Buffett-Business/Business 3.2.1.md",
     "Humanities/Buffett-Business/Business 3.2.2.md",
@@ -239,7 +240,6 @@
     "Humanities/Buffett-Business/Business 3.2.7.md",
     "Humanities/Buffett-Business/Business 3.3.1.md",
     "Humanities/Buffett-Business/Business 3.3.2.md",
-    "Humanities/Buffett-Business/Business 3.3.4.md",
     "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",
