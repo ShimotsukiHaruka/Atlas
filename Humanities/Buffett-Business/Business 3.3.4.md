@@ -38,5 +38,8 @@ Revenue does not only come from the sale of goods and services. Money can come i
 - Donations/gifts
 - Interest earnings from cash savings in a bank account
 - Grants and subsidies from the government
+## Revenue Streams — Advertising Revenue
+- Companies such as Google, Twitter and Facebook rely heavily on advertising revenue as a revenue stream.
+- For example, over 80% of the revenues from social media firm Twitter comes from text and display advertising.
 ## Vocabulary
 + Sponsor
