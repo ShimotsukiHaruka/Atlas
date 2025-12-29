@@ -14,3 +14,6 @@
 - Being a shareholder of other companies entitles a business to payments of any declared dividends.
     E.g.
     - Europe's largest car maker Volkswagen holds shares in Porsche, Suzuki, and Scania (the Swedish maker of heavy trucks and buses).
+## Revenue Streams — Donations
+- These are financial gifts from individuals or other organizations to a business.
+- Charities and non-profit organizations such as schools, hospitals and universities rely heavily on donations as a regular revenue stream.
