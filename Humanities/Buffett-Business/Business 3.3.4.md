@@ -41,5 +41,9 @@ Revenue does not only come from the sale of goods and services. Money can come i
 ## Revenue Streams — Advertising Revenue
 - Companies such as Google, Twitter and Facebook rely heavily on advertising revenue as a revenue stream.
 - For example, over 80% of the revenues from social media firm Twitter comes from text and display advertising.
+## Revenue Streams — Transactions Fees
+- Ryanair, for example, charges customers who pay by American Express credit card €7 ($9.50) and 2% commission.
+- Other budget airlines such as AirAsia and EasyJet charge fees for checked baggage and pre-assigned seats.
+- According to the Wall Street Journal, low-cost airlines earn around 20% of their revenue from these alternative revenue streams.
 ## Vocabulary
 + Sponsor
