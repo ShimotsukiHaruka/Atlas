@@ -45,5 +45,10 @@ Revenue does not only come from the sale of goods and services. Money can come i
 - Ryanair, for example, charges customers who pay by American Express credit card €7 ($9.50) and 2% commission.
 - Other budget airlines such as AirAsia and EasyJet charge fees for checked baggage and pre-assigned seats.
 - According to the Wall Street Journal, low-cost airlines earn around 20% of their revenue from these alternative revenue streams.
+## Revenue Streams — Franchise Fees and Royalties
+- McDonalds, Burger King and KFC all operate franchises.
+- Franchisees pay a fee to the franchiser to purchase the right to use its brand name, logos and trademarks.
+- The franchisee also pays a royalty payment based on the sales revenue of the franchised business.
+- Royalties are also received by the holder of patents and copyrights from others who are granted the use of their inventions and creations.
 ## Vocabulary
 + Sponsor
