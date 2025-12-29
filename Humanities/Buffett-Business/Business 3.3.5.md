@@ -10,3 +10,7 @@
     - Cable and satellite television providers charge monthly fees.
 ## Revenue Streams — Merchandise
 + Service providers in the entertainment industry (such as cinemas, concerts, theatres and theme parks) rely on selling merchandise (such as popcorn, beverages, souvenirs and memorabilia) in addition to admissions charges.
+## Revenue Streams — Dividends
+- Being a shareholder of other companies entitles a business to payments of any declared dividends.
+    E.g.
+    - Europe's largest car maker Volkswagen holds shares in Porsche, Suzuki, and Scania (the Swedish maker of heavy trucks and buses).
