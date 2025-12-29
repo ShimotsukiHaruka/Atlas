@@ -17,3 +17,8 @@
 ## Revenue Streams — Donations
 - These are financial gifts from individuals or other organizations to a business.
 - Charities and non-profit organizations such as schools, hospitals and universities rely heavily on donations as a regular revenue stream.
+## Revenue Streams — Interest Earnings
+- Businesses can earn interest on their cash deposits at the bank.
+- For highly cash-rich businesses this can be an important revenue stream.
+- Forbes reported that Apple had a total cash balance of $137.1 billion in 2013, whilst Microsoft had $68.3 billion.
+- Depositing $1 billion in a bank account that pays just 1% interest per year still yields $27,397 per day! At an interest rate of 3%, the daily revenue stream would be $82,192!
