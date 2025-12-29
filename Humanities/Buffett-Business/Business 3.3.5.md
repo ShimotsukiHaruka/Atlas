@@ -8,3 +8,5 @@
     - Many credit card companies charge annual fees.
     - Telephone companies charge a basic service fee on a monthly basis but extra for additional services.
     - Cable and satellite television providers charge monthly fees.
+## Revenue Streams — Merchandise
++ Service providers in the entertainment industry (such as cinemas, concerts, theatres and theme parks) rely on selling merchandise (such as popcorn, beverages, souvenirs and memorabilia) in addition to admissions charges.
