@@ -1,3 +1,2 @@
 ## Vocabulary
 + hyperbola
-+ 
