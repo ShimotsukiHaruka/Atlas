@@ -14,5 +14,19 @@ These accounts consist of two statements:
 - It shows the assets and liabilities of a business at a particular point in time.
 **What?**  
 It is a legal requirement in most countries for companies (incorporated businesses) to have their final accounts audited by independent and chartered accountants who certify the financial statements to be accurate and truthful.
+## Fixed Vs Current Assets
+**Assets**  
+Acquired/purchased and owned, having value and available to meet debts, commitments or legacies.
+**Fixed Assets**  
+Purchased for long-term use and are not likely to be converted quickly into cash.
+- Land
+- Machinery
+- Buildings
+**Current Assets**  
+Either cash, a cash equivalent, or anything which can be converted into cash within one year.
+- Cash
+- Bank Balance
+- Investments/deposits
+- Inventory
 ## Vocabulary
 + Breakeven
