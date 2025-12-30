@@ -35,16 +35,16 @@ Either cash, a cash equivalent, or anything which can be converted into cash wit
     - Profit
     - Retained profits
     - Dividends
-2. Managers
+2. Managers (ask for bonus, strategy, potential)
     - Revenue and profits
     - Retained profits
     - Decision-making
-3. Employees
+3. Employees (ask for higher wage, job cut)
     - Profits after tax
     - Financial security
     - Possible pay rises
 **External Stakeholders:**
-4. The government
+4. The government 
     - Tax liabilities
     - Standards and regulations
     - Decisions by managers
