@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assets",
+                "query": "NGO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

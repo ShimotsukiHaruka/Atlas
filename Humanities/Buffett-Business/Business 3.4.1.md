@@ -28,5 +28,36 @@ Either cash, a cash equivalent, or anything which can be converted into cash wit
 - Bank Balance
 - Investments/deposits
 - Inventory
+## External Stakeholders VS Internal Stakeholders
+**Internal Stakeholders:**
+1. Shareholders
+    - Sales revenue
+    - Profit
+    - Retained profits
+    - Dividends
+2. Managers
+    - Revenue and profits
+    - Retained profits
+    - Decision-making
+3. Employees
+    - Profits after tax
+    - Financial security
+    - Possible pay rises
+**External Stakeholders:**
+4. The government
+    - Tax liabilities
+    - Standards and regulations
+    - Decisions by managers
+5. Suppliers
+    - Cash position
+    - Trends in revenue and profits
+6. Customers
+    - Profits as a proportion of revenue
+    - Financial security
+7. Pressure groups
+    - Issues such as ethics and sustainability
+8. Investors
+    - Historical financial performance
+    - Financial security
 ## Vocabulary
 + Breakeven
