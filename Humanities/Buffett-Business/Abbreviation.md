@@ -46,3 +46,5 @@
 
 **ATM:** Automatic Teller Machine
 
+**IFRS:** International Financial Reporting Standards
+
