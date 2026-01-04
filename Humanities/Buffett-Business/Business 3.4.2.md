@@ -19,6 +19,8 @@
 | **Government**          | To ensure you are paying the correct amount of tax.                                                         |
 | **Financiers**          | Will look over your accounts before approving any loans.                                                    |
 | **Potential investors** | Will use the accounts to assess whether an investment would be financially worthwhile.                      |
+## Statement of profit or loss
+The statement of profit or loss, commonly known as
 ## Vocabulary
 + After sale
 + Warranty
