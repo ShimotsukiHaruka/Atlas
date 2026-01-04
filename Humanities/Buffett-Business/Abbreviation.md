@@ -48,3 +48,5 @@
 
 **IFRS:** International Financial Reporting Standards
 
+**COS:** Costs of Sales
+
