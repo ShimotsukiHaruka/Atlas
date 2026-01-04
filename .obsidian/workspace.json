@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
+                "file": "Humanities/Buffett-Business/Business 3.4.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry 1.2"
+              "title": "Business 3.4.2"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,6 +199,7 @@
   },
   "active": "5dd01f9c6f448a1a",
   "lastOpenFiles": [
+    "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
     "Sciences/Einstein-Physics/Physics 1.1.md",
     "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business 3.2.4.md",
@@ -227,7 +227,6 @@
     "Humanities/Buffett-Business/Business 1.2.1.md",
     "Humanities/Buffett-Business/Business 1.1.4.md",
     "Humanities/Buffett-Business/Business 1.1.3.md",
-    "Humanities/Buffett-Business/Business 1.1.2.md",
     "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",

@@ -16,8 +16,6 @@ $$
 $$
 h = 6.63 × 10⁻³⁴ J·s \ (Planck's Constant)
 $$
-
-
 ## Vocabulary
 + Spectroscope
 + Photon
