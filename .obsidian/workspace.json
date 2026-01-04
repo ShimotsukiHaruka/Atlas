@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.2.4.md",
+                "file": "Humanities/Buffett-Business/Business 3.4.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.2.4"
+              "title": "Business 3.4.2"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,6 +199,7 @@
   },
   "active": "5dd01f9c6f448a1a",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 3.2.4.md",
     "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business 3.4.1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
