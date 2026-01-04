@@ -20,7 +20,7 @@
 | **Financiers**          | Will look over your accounts before approving any loans.                                                    |
 | **Potential investors** | Will use the accounts to assess whether an investment would be financially worthwhile.                      |
 ## Statement of profit or loss
-The statement of profit or loss, commonly known as
+The statement of profit or loss, commonly known as profit and loss account shows a firm's profit.
 ## Vocabulary
 + After sale
 + Warranty
