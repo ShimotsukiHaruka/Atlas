@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "812f0a2ccf86f40a",
+        "id": "cc9578c03e789a40",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd01f9c6f448a1a",
+            "id": "1fb2754a9f82f627",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,11 +197,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5dd01f9c6f448a1a",
+  "active": "1fb2754a9f82f627",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business 3.3.3.md",
     "Humanities/Buffett-Business/Assets/lQLPKHERy69j6pfNAcLNAyCwJWJxLLWPOJQJM5NbUzi1AA_800_450.png",
-    "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 1.2.md",
