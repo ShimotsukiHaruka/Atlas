@@ -27,3 +27,6 @@
 + Spare part
 + Financier
 + Purchases
++ Deficit
++ Blanket
++ Brackets
