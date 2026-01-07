@@ -11,4 +11,4 @@ Email/Diary/Diary or Journal/Blog
 ## 25% IA (Individual Oral Assessment)
 30 marks
 ## Vocabulary
-+ occasion
++ Occasion
