@@ -10,3 +10,5 @@ Email/Diary/Diary or Journal/Blog
 3 Text 40 marks
 ## 25% IA (Individual Oral Assessment)
 30 marks
+## Vocabulary
++ occasion
