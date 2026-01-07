@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9578c03e789a40",
+        "id": "b2d3cac9c7bd98ba",
         "type": "tabs",
         "children": [
           {
-            "id": "1fb2754a9f82f627",
+            "id": "9eed4e7cf81249cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanities/Laozi-Chinese/Chinese 1.2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chinese 1.2"
-            }
-          },
-          {
-            "id": "dc03459e5ce07d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanities/Laozi-Chinese/Chinese.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chinese"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,17 +193,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "dc03459e5ce07d5c",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
-    "Pasted image 20260107090124.png",
-    "Pasted image 20260107090108.png",
+    "Humanities/Laozi-Chinese/Chinese.md",
+    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090124.png",
+    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090108.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090000.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107082226.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107081455.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107081400.png",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107080645.png",
-    "Humanities/Laozi-Chinese/Chinese.md",
     "Humanities/Laozi-Chinese/Assets",
     "Sciences/Einstein-Physics/Physics SA1.md",
     "Sciences/Einstein-Physics/Physics 2.2.md",
@@ -252,7 +233,6 @@
     "Humanities/Buffett-Business/Business 3.2.4.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Sciences/Einstein-Physics/Assets/4.png",
     "Sciences/Einstein-Physics/Assets",
     "Sciences/Einstein-Physics/New folder",
     "Guide",
