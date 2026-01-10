@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -199,6 +200,8 @@
   },
   "active": "9eed4e7cf81249cf",
   "lastOpenFiles": [
+    "Pasted image 20260110193535.png",
+    "Pasted image 20260110193447.png",
     "Pasted image 20260110193135.png",
     "Pasted image 20260110193051.png",
     "Pasted image 20260110193005.png",
@@ -233,8 +236,6 @@
     "Humanities/Buffett-Business/Business 3.1.1.md",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090124.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090108.png",
-    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090000.png",
-    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107082226.png",
     "Humanities/Laozi-Chinese/Assets",
     "Untitled.canvas",
     "Untitled.base",
