@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "A.2.png"
+                "file": "B.1.png"
               },
               "icon": "lucide-image",
-              "title": "A.2"
+              "title": "B.1"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -198,14 +197,15 @@
   },
   "active": "9eed4e7cf81249cf",
   "lastOpenFiles": [
-    "A.4.png",
-    "B.1.png",
     "B.2&B.3.png",
     "B.4.png",
-    "Pasted image 20260110193005.png",
-    "A.2.png",
-    "Sciences/Einstein-Physics/Physics SA1.md",
+    "B.1.png",
+    "A.4.png",
     "A.3.png",
+    "A.2.png",
+    "Sciences/Einstein-Physics/Assets/1.jpg",
+    "Sciences/Einstein-Physics/Physics SA1.md",
+    "Pasted image 20260110193005.png",
     "TOK/TOK.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
