@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d3cac9c7bd98ba",
+        "id": "687c391d89f1ee45",
         "type": "tabs",
         "children": [
           {
-            "id": "9eed4e7cf81249cf",
+            "id": "6784389e74c2d9a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "A.4.png"
+                "file": "Sciences/Einstein-Physics/Physics SA1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "A.4"
+              "icon": "lucide-file",
+              "title": "Physics SA1"
             }
           }
         ]
@@ -195,16 +197,19 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "6784389e74c2d9a4",
   "lastOpenFiles": [
+    "Pasted image 20260110193005.png",
+    "Sciences/Einstein-Physics/Assets/A.1.jpg",
+    "Sciences/Einstein-Physics/Assets/A.0.jpg",
+    "Sciences/Einstein-Physics/Assets/B.4.png",
+    "Sciences/Einstein-Physics/Assets/B.2&B.3.png",
+    "Sciences/Einstein-Physics/Assets/B.1.png",
+    "Sciences/Einstein-Physics/Assets/A.4.png",
+    "Sciences/Einstein-Physics/Assets/A.3.png",
+    "Sciences/Einstein-Physics/Assets/A.2.png",
     "A.4.png",
     "B.1.png",
-    "B.2&B.3.png",
-    "B.4.png",
-    "Pasted image 20260110193005.png",
-    "A.3.png",
-    "A.2.png",
-    "Sciences/Einstein-Physics/Assets/1.jpg",
     "Sciences/Einstein-Physics/Physics SA1.md",
     "TOK/TOK.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
@@ -226,13 +231,10 @@
     "Humanities/Buffett-Business/Business 3.3.5.md",
     "Humanities/Buffett-Business/Business 3.3.4.md",
     "Humanities/Buffett-Business/Business 1.2.3.md",
-    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107080645.png",
-    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107081400.png",
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Buffett-Business/Business 1.6.1.md",
     "Humanities/Buffett-Business/Business 1.6.2.md",
-    "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090124.png",
     "Humanities/Laozi-Chinese/Assets",
     "Untitled.canvas",
     "Untitled.base",
