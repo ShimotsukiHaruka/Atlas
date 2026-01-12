@@ -49,7 +49,7 @@
 * **O**pinions of Stakeholders: How do different groups (owners vs. employees) feel?
 * **T**herefore: What is your final, justified recommendation?
 
-### **Example (Q3d): Discuss whether WE should retain its programme of CSR.**
+### Example (Q3d): Discuss whether WE should retain its programme of CSR.
 > **Introduction:** Corporate Social Responsibility (CSR) involves businesses acting ethically towards stakeholders and the environment. For WE, CSR has been a core part of its brand identity since 2008.
 >
 > **Arguments For:** Retaining CSR maintains WE's "brand identity" and its appeal to "environmentally conscious customers." This loyalty allows them to remain a "regional market leader" despite competition.
