@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "96af7f28c30637bf",
+        "id": "7c5a2b01dba40c31",
         "type": "tabs",
         "children": [
           {
-            "id": "b614719935ba2326",
+            "id": "f206322ce38f7733",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Sciences/Einstein-Physics/Assets/B.4.png"
+                "file": "IB Business Management Exam Answer Templates.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "B.4"
+              "icon": "lucide-file",
+              "title": "IB Business Management Exam Answer Templates"
             }
           }
         ]
@@ -195,8 +197,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b614719935ba2326",
+  "active": "f206322ce38f7733",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Assets/B.4.png",
+    "IB Business Management Exam Answer Templates.md",
     "Sciences/Einstein-Physics/Assets/B.2&B.3.png",
     "Sciences/Einstein-Physics/Assets/B.1.png",
     "Sciences/Einstein-Physics/Assets/A.4.png",
@@ -208,7 +212,6 @@
     "Sciences/Einstein-Physics/Assets/3.png",
     "Sciences/Einstein-Physics/Assets/2.png",
     "Sciences/Einstein-Physics/Physics SA1.md",
-    "Pasted image 20260110193005.png",
     "TOK/TOK.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
@@ -232,7 +235,6 @@
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "Humanities/Buffett-Business/Business 1.6.1.md",
-    "Humanities/Buffett-Business/Business 1.6.2.md",
     "Humanities/Laozi-Chinese/Assets",
     "Untitled.canvas",
     "Untitled.base",
