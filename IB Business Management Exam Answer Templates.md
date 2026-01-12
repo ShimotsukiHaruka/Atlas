@@ -34,16 +34,16 @@
 ## 4. The "Discuss/Evaluate" Template (10 Marks)
 **Goal:** Provide a balanced argument (Pros vs. Cons) ending in a reasoned judgment (Evaluation).
 
-### **Structure:**
+### Structure:
 
-| Section | Content Requirements |
-| :--- | :--- |
-| **Introduction** | Define the main term and state its relevance to the specific business in the case. |
-| **Arguments FOR** | 2 Points. Explain the benefits. **Must link to Case:** e.g., WE's "brand identity". |
+| Section               | Content Requirements                                                                               |
+| :-------------------- | :------------------------------------------------------------------------------------------------- |
+| **Introduction**      | Define the main term and state its relevance to the specific business in the case.                 |
+| **Arguments FOR**     | 2 Points. Explain the benefits. **Must link to Case:** e.g., WE's "brand identity".                |
 | **Arguments AGAINST** | 2 Points. Explain the drawbacks/risks. **Must link to Case:** e.g., WE's "falling profit margins". |
-| **Conclusion** | Use the **SLOT** method to provide a final recommendation. |
+| **Conclusion**        | Use the **SLOT** method to provide a final recommendation.                                         |
 
-### **Evaluation Technique (SLOT):**
+### Evaluation Technique (SLOT):
 * **S**hort vs. Long term: How does the impact change over time?
 * **L**imitations: Is the data provided in the case sufficient or reliable?
 * **O**pinions of Stakeholders: How do different groups (owners vs. employees) feel?
