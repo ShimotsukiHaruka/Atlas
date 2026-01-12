@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "687c391d89f1ee45",
+        "id": "96af7f28c30637bf",
         "type": "tabs",
         "children": [
           {
-            "id": "6784389e74c2d9a4",
+            "id": "b614719935ba2326",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Sciences/Einstein-Physics/Physics SA1.md",
-                "mode": "source",
-                "source": false
+                "file": "Sciences/Einstein-Physics/Assets/B.4.png"
               },
-              "icon": "lucide-file",
-              "title": "Physics SA1"
+              "icon": "lucide-image",
+              "title": "B.4"
             }
           }
         ]
@@ -197,20 +195,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6784389e74c2d9a4",
+  "active": "b614719935ba2326",
   "lastOpenFiles": [
-    "Pasted image 20260110193005.png",
-    "Sciences/Einstein-Physics/Assets/A.1.jpg",
-    "Sciences/Einstein-Physics/Assets/A.0.jpg",
-    "Sciences/Einstein-Physics/Assets/B.4.png",
     "Sciences/Einstein-Physics/Assets/B.2&B.3.png",
     "Sciences/Einstein-Physics/Assets/B.1.png",
     "Sciences/Einstein-Physics/Assets/A.4.png",
     "Sciences/Einstein-Physics/Assets/A.3.png",
     "Sciences/Einstein-Physics/Assets/A.2.png",
-    "A.4.png",
-    "B.1.png",
+    "Sciences/Einstein-Physics/Assets/A.1.jpg",
+    "Sciences/Einstein-Physics/Assets/A.0.jpg",
+    "Sciences/Einstein-Physics/Assets/4.png",
+    "Sciences/Einstein-Physics/Assets/3.png",
+    "Sciences/Einstein-Physics/Assets/2.png",
     "Sciences/Einstein-Physics/Physics SA1.md",
+    "Pasted image 20260110193005.png",
     "TOK/TOK.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.0.md",
     "Sciences/Euclid-Mathematics/Mathematics 1.9.md",
