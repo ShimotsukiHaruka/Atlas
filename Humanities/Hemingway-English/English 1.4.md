@@ -1,5 +1,3 @@
-# English 1.4 
-
 ![enter image description here](https://www.crowe-associates.co.uk/wp-content/uploads/2015/06/gibbs_reflective_cycle.png)
 
 ## Sentence

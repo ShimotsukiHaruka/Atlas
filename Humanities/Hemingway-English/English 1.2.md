@@ -1,5 +1,3 @@
-# English 1.2
-
 ## Vocabulary
 + Fit in
 + Cozy

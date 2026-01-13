@@ -1,4 +1,3 @@
-# English 1.3
 ## Speaking examination
 + **Tips:**
    + Introduction
