@@ -11,10 +11,14 @@
             "id": "436259715ea19083",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IB Business Management Exam Answer Templates"
             }
           }
         ]
@@ -193,12 +197,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "436259715ea19083",
   "lastOpenFiles": [
+    "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry SA1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 5.1.md",
-    "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "Sciences/Einstein-Physics/Physics SA1.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "TOK/破题之法.md",

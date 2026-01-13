@@ -1,4 +1,3 @@
-# Physics 1.2
 ## Random and systematic errors
 🔹 **Random errors**
 + Cause: Uncontrollable fluctuations (e.g., parallax in reading, small environmental changes).
