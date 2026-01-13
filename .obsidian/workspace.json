@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "IB Business Management Exam Answer Templates"
             }
+          },
+          {
+            "id": "faee4f63231e4510",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "436259715ea19083",
+  "active": "faee4f63231e4510",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.pdf",
     "Sciences/Euclid-Mathematics/Mathematics SA1.md",
