@@ -57,3 +57,5 @@
 > **Arguments Against:** However, WE is facing "falling profit margins," and as Milton Friedman argues, the primary responsibility of a business is to "increase its profits." CSR activities increase "one-off expenses" and might be unsustainable if profitability continues to decline due to "diseconomies of scale."
 >
 > **Conclusion:** In the **short term**, cutting CSR might improve margins. However, in the **long term**, WE's competitive advantage is built entirely on its ethical reputation. **Therefore**, WE should retain the programme but must optimize its operational costs to address the efficiency issues mentioned by the CEO.
+
+In the actual exam, it should be written as a long paragraph.
