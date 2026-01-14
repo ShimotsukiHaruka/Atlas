@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Hemingway-English/Writing.md",
+                "file": "Humanities/Buffett-Business/Business SA1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing"
+              "title": "Business SA1"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "econ",
+                "query": "economics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,10 +212,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "d73834347564aded",
   "lastOpenFiles": [
-    "Humanities/Hemingway-English/English SA1.2.md",
+    "Humanities/Buffett-Business/Business 3.4.2.md",
+    "Humanities/Buffett-Business/Business 3.4.1.md",
+    "Humanities/Buffett-Business/Business 1.5.1.md",
+    "Humanities/Buffett-Business/Business 1.5.2.md",
     "Humanities/Hemingway-English/Writing.md",
+    "Humanities/Hemingway-English/English SA1.2.md",
     "Humanities/Hemingway-English/English SA1.1.md",
     "Humanities/Hemingway-English/Timeline.md",
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
@@ -232,12 +235,10 @@
     "Sciences/Einstein-Physics/Physics SA1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 3.1.1.md",
-    "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 3.3.4.md",
     "Humanities/Buffett-Business/Business 3.3.3.md",
     "Humanities/Buffett-Business/Business 3.3.5.md",
-    "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107082226.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090108.png",
@@ -251,8 +252,6 @@
     "Humanities/Hemingway-English/English 1.1.md",
     "Arts/Sakamoto-Music/Magnolia.mp3",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.pdf",
-    "Sciences/Euclid-Mathematics/Mathematics SA1.md",
-    "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
     "Humanities/Laozi-Chinese/Assets",
     "Untitled.canvas",
     "Untitled.base",
