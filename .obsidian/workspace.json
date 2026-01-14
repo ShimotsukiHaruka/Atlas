@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "436259715ea19083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanities/Laozi-Chinese/Chinese P1 模板.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chinese P1 模板"
-            }
-          },
-          {
             "id": "b7a8748d5657001b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Hemingway-English/Timeline.md",
+                "file": "Humanities/Hemingway-English/English SA1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "English SA1.2"
+            }
+          },
+          {
+            "id": "d73834347564aded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanities/Hemingway-English/Writing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing"
             }
           }
         ],
@@ -212,10 +212,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0b05d76b87745fb1",
+  "active": "d73834347564aded",
   "lastOpenFiles": [
-    "Humanities/Laozi-Chinese/Chinese P1 模板.md",
+    "Humanities/Hemingway-English/English SA1.2.md",
+    "Humanities/Hemingway-English/Writing.md",
+    "Humanities/Hemingway-English/English SA1.1.md",
     "Humanities/Hemingway-English/Timeline.md",
+    "Humanities/Laozi-Chinese/Chinese P1 模板.md",
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Sciences/Einstein-Physics/Assets/A.0.jpg",
     "Sciences/Einstein-Physics/Assets/A.1.jpg",
@@ -241,8 +244,6 @@
     "Humanities/Laozi-Chinese/Chinese 1.2.md",
     "TOK/破题之法.md",
     "TOK/TOK.md",
-    "Humanities/Hemingway-English/English SA1.2.md",
-    "Humanities/Hemingway-English/English SA1.1.md",
     "Humanities/Hemingway-English/English 1.4.md",
     "Humanities/Hemingway-English/English 1.3.md",
     "Humanities/Hemingway-English/English 1.2.md",
@@ -251,7 +252,6 @@
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.pdf",
     "Sciences/Euclid-Mathematics/Mathematics SA1.md",
     "Sciences/Euclid-Mathematics/Mathematics 2.1.md",
-    "Sciences/Mendeleev-Chemistry/Chemistry SA1.md",
     "Humanities/Laozi-Chinese/Assets",
     "Untitled.canvas",
     "Untitled.base",
