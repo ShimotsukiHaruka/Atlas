@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COS",
+                "query": "econ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +213,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d73834347564aded",
+  "active": "e1c3bc49e54783d1",
   "lastOpenFiles": [
     "Humanities/Hemingway-English/English SA1.2.md",
     "Humanities/Hemingway-English/Writing.md",
