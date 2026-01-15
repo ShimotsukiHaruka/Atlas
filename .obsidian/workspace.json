@@ -25,14 +25,12 @@
             "id": "d73834347564aded",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Humanities/Buffett-Business/Business SA1.md",
-                "mode": "source",
-                "source": false
+                "file": "Sciences/Einstein-Physics/Assets/B.4.png"
               },
-              "icon": "lucide-file",
-              "title": "Business SA1"
+              "icon": "lucide-image",
+              "title": "B.4"
             }
           }
         ],
@@ -93,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -214,6 +213,7 @@
   },
   "active": "d73834347564aded",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/Business 1.5.1.md",
@@ -235,7 +235,6 @@
     "Sciences/Einstein-Physics/Physics SA1.md",
     "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 3.1.1.md",
-    "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 3.3.4.md",
     "Humanities/Buffett-Business/Business 3.3.3.md",
     "Humanities/Buffett-Business/Business 3.3.5.md",
