@@ -63,4 +63,7 @@ In the actual exam, it should be written as a long paragraph.
 10 Point:
 Intro : EI is a Ltd sellng high quality ice-creams, it has a strong USP and is looking at 2strategic growth options, one is internal growth and the other one is franchise which is external growth.
 
-Option 1: If choose 
+Option 1 advs : easy to control the rate/pace of growth so it can prevent diseconomies of scale.
+Option 1 disadv : but it is quite slow to grow organically, which may lead to lost opportunities to gain more market share, especially if the market is growing faster
+
+Option 2 adv : much faster growth method since franchising allows franchisors to participate in the operations of EI, 
