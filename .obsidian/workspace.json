@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/Buffett-Business/Business 3.2.1.md",
-                "mode": "preview",
+                "file": "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business 3.2.1"
+              "title": "IB Business Management Exam Answer Templates"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deben",
+                "query": "private limit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,10 +197,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e1c3bc49e54783d1",
+  "active": "ed9417859ada7e92",
   "lastOpenFiles": [
-    "Humanities/Buffett-Business/Business 1.3.1.md",
+    "Humanities/Buffett-Business/Business SA1.md",
+    "Humanities/Buffett-Business/Business 1.2.6.md",
+    "Humanities/Buffett-Business/Business 1.2.5.md",
+    "Humanities/Buffett-Business/Business 1.2.3.md",
+    "Humanities/Buffett-Business/Abbreviation.md",
     "Humanities/Buffett-Business/Business 3.2.1.md",
+    "Humanities/Buffett-Business/Business 1.3.1.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.4.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.3.md",
     "Sciences/Mendeleev-Chemistry/Chemistry 3.1.md",
@@ -214,7 +218,6 @@
     "Humanities/Laozi-Chinese/Chinese P1.md",
     "Humanities/Laozi-Chinese/Chinese P1 模板.md",
     "Sciences/Einstein-Physics/Assets/B.4.png",
-    "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 3.4.2.md",
     "Humanities/Buffett-Business/Business 3.4.1.md",
     "Humanities/Buffett-Business/Business 1.5.1.md",
@@ -230,10 +233,6 @@
     "Sciences/Einstein-Physics/Assets/A.4.png",
     "Sciences/Einstein-Physics/Assets/A.3.png",
     "Sciences/Einstein-Physics/Assets/A.2.png",
-    "Sciences/Einstein-Physics/Physics SA1.md",
-    "Humanities/Buffett-Business/Abbreviation.md",
-    "Humanities/Buffett-Business/Business 3.1.1.md",
-    "Humanities/Buffett-Business/Business 3.3.4.md",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107082226.png",
     "Humanities/Laozi-Chinese/Assets/Pasted image 20260107090108.png",
     "Arts/Sakamoto-Music/Magnolia.mp3",

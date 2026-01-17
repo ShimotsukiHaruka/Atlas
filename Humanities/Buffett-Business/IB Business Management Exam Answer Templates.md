@@ -59,3 +59,8 @@
 > **Conclusion:** In the **short term**, cutting CSR might improve margins. However, in the **long term**, WE's competitive advantage is built entirely on its ethical reputation. **Therefore**, WE should retain the programme but must optimize its operational costs to address the efficiency issues mentioned by the CEO.
 
 In the actual exam, it should be written as a long paragraph.
+
+10 Point:
+Intro : EI is a Ltd sellng high quality ice-creams, it has a strong USP and is looking at 2strategic growth options, one is internal growth and the other one is franchise which is external growth.
+
+Option 1: If choose 
