@@ -68,3 +68,4 @@ Option 1 disadv : but it is quite slow to grow organically, which may lead to lo
 
 Option 2 adv : much faster growth method since franchising allows franchisors to participate in the operations of EI, 
 option 2 adv: helps EI to diversify revenue streams such as franchising fees as well as royalties
+option 2  disadv: there's a high risk of hurting the brand image of EI, if some franchisees make a blunder in terms of product quality or customer service, also, f some franchisees become greedy and start cutting costs therefore reducing the ice cream quality
