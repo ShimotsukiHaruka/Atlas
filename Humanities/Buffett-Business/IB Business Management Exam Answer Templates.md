@@ -67,3 +67,4 @@ Option 1 advs : easy to control the rate/pace of growth so it can prevent diseco
 Option 1 disadv : but it is quite slow to grow organically, which may lead to lost opportunities to gain more market share, especially if the market is growing faster
 
 Option 2 adv : much faster growth method since franchising allows franchisors to participate in the operations of EI, 
+option 2 adv: helps EI to diversify revenue streams such as franchising fees as well as royalties
