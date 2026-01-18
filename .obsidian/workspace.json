@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "IB Business Management Exam Answer Templates"
             }
+          },
+          {
+            "id": "ac7c87bdaaaf6275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +212,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ed9417859ada7e92",
+  "active": "ac7c87bdaaaf6275",
   "lastOpenFiles": [
+    "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
+    "Vocabulary.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 1.2.6.md",
     "Humanities/Buffett-Business/Business 1.2.5.md",
@@ -224,8 +241,6 @@
     "Humanities/Buffett-Business/Business 1.5.2.md",
     "Humanities/Hemingway-English/Writing.md",
     "Humanities/Hemingway-English/English SA1.2.md",
-    "Humanities/Hemingway-English/English SA1.1.md",
-    "Humanities/Hemingway-English/Timeline.md",
     "Sciences/Einstein-Physics/Assets/A.0.jpg",
     "Sciences/Einstein-Physics/Assets/A.1.jpg",
     "Sciences/Einstein-Physics/Assets/B.2&B.3.png",
