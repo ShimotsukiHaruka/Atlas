@@ -31,6 +31,11 @@ feas<span style="color:rgb(255, 0, 0)">ible</span> [ible=able]  [feas=fac=fact]
     + [masqu=mask; ade: <n.] 
 
 ### 03
+**形近字母的互换，u/v/w, m/n的互换**
+（m/n 可以省略）
++ ming<span style="color:rgb(255, 0, 0)">le</span> n. 混合 [le: repeat]
++ 
+
 
 
 
