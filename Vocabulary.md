@@ -11,10 +11,11 @@
 - bene**<span style="color:rgb(255, 0, 0)">fact</span>**or /ˈbenɪfæktə(r)/ n. 行善者，施主 **[fact: to make]**
     - (<span style="color:rgb(255, 0, 0)"><b>fact</b></span>ory) (manu<span style="color:rgb(255, 0, 0)"><b>fact</b></span>ure)
 ### 02
-**Etymology** 词源  **[Etymo: real] [logy: the study of...]** **焚诀**：（看读音，看拼写，看意思）
+**Etymology** 词源  **[Etymo: real]  [logy: the study of...]** 
+**焚诀**：（看读音，看拼写，看意思）
 - **shelter** n, v 避难所，保护
 - **shield** n. 盾牌，保护
     - (sit (短)---seat(长)) (shell t)
 - **fet**ter n. 束缚，脚镣 **[fet: feet]**
 **词源的变化规则** **元音之间可以互换 a, e, i, o, u, y** 
-feasiblex [ible] [feas=fac=fact]
+feasiblex [ible=able]  [feas=fac=fact]
