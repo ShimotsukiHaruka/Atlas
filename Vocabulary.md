@@ -17,4 +17,4 @@
     - (sit (短)---seat(长)) (shell t)
 - **fet**ter n. 束缚，脚镣 **[fet: feet]**
 **词源的变化规则** **元音之间可以互换 a, e, i, o, u, y** 
-feasiblex [feas=fac=fact]
+feasiblex [ible] [feas=fac=fact]
