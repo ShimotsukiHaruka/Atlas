@@ -11,14 +11,26 @@
 - bene<span style="color:rgb(255, 0, 0)">fact</span>or /ˈbenɪfæktə(r)/ n. 行善者，施主 **[fact: to make]**
     - (<span style="color:rgb(255, 0, 0)"><b>fact</b></span>ory) (manu<span style="color:rgb(255, 0, 0)"><b>fact</b></span>ure)
 ### 02
-**Etymology** 词源  **[Etymo: real]  [logy: the study of...]** 
+<span style="color:rgb(255, 0, 0)">Etymo</span>logy 词源  **[Etymo: real]  [logy: the study of...]** 
 **焚诀**：（看读音，看拼写，看意思）
-- **shelter** n, v 避难所，保护
-- **shield** n. 盾牌，保护
+- shelt<span style="color:rgb(255, 0, 0)">er</span> n, v 避难所，保护
+- <span style="color:rgb(255, 0, 0)">shiel</span>d n. 盾牌，保护
     - (sit (短)---seat(长)) (shell t)
-- **fet**ter n. 束缚，脚镣 **[fet: feet]**
+- <span style="color:rgb(255, 0, 0)">fet</span>ter n. 束缚，脚镣 **[fet: feet]**
 **词源的变化规则** **元音之间可以互换 a, e, i, o, u, y** 
-feasiblex [ible=able]  [feas=fac=fact]
+feas<span style="color:rgb(255, 0, 0)">ible</span> [ible=able]  [feas=fac=fact]
 **辅音之间 p/b, t/d, k/g/c/qu, f/v, s/z/x/th 可以互换**
++ <span style="color:rgb(255, 0, 0)">dis</span>burse /dɪsˈbɜːrs/ v. 支付，付款 pay for
+    + [dis: not/apart] (purse 钱包) 
++ re<span style="color:rgb(255, 0, 0)">im</span>burse /ˌriːɪmˈbɜːrs/ [back+into+purse]
++ kindle /_ˈkɪnd(ə)l_/ v. 点燃 [candle]
++ sunder /_ˈsʌndər_/ v. 分开，裂开 [thunder]
++ mis<span style="color:rgb(255, 0, 0)">cell</span>aneous /_ˌmɪsəˈleɪniəs_/ adj. 混杂的，各种各样的
+    + [mix; cell; aneous] 
++ masqu<span style="color:rgb(255, 0, 0)">er</span>ade /_ˌmæskəˈreɪd_/ n. 假面舞会，化妆 舞会
+    + [masqu=mask; ade: <n.] 
+
+### 03
+
 
 
