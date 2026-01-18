@@ -4,13 +4,13 @@
 - **prefix** 前缀
 - **suffix** 词性
 - **root** 意义
-- **re**gress /rɪˈɡres/ v. 后退，退步 **[gress: to go] [re: 再/back/against]**
-- **in**gress /ˈɪnɡres/ n. 进入 **[into + go]**
-- **improvise** /ˈɪmprəvaɪz/ v. 即兴创作 **[im/in: into, not; pro: front; vis: to see;]**
+-<span style="color:rgb(255, 0, 0)"> <b>re</b></span>gress /rɪˈɡres/ v. 后退，退步 **[gress: to go] [re: 再/back/against]**
+- <span style="color:rgb(255, 0, 0)"><b>in</b></span>gress /ˈɪnɡres/ n. 进入 **[into + go]**
+- <span style="color:rgb(255, 0, 0)">**im</span>pro<span style="color:rgb(255, 0, 0)">vise</span>** /ˈɪmprəvaɪz/ v. 即兴创作 **[im/in: into, not; pro: front; vis: to see;]**
     - (**vis**it [it: to go])
-- bene**fact**or /ˈbenɪfæktə(r)/ n. 行善者，施主 **[fact: to make]**
-    - (**fact**ory) (manu**fact**ure)
-
+- bene**<span style="color:rgb(255, 0, 0)">fact</span>**or /ˈbenɪfæktə(r)/ n. 行善者，施主 **[fact: to make]**
+    - (<span style="color:rgb(255, 0, 0)"><b>fact</b></span>ory) (manu<span style="color:rgb(255, 0, 0)"><b>fact</b></span>ure)
+### 02
 **Etymology** 词源 **[Etymo: real] [logy: the study of...]** **焚诀**：（看读音，看拼写，看意思）
 - **shelter** n, v 避难所，保护
 - **shield** n. 盾牌，保护
