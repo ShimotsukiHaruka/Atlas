@@ -19,3 +19,5 @@
 - **fet**ter n. 束缚，脚镣 **[fet: feet]**
 **词源的变化规则** **元音之间可以互换 a, e, i, o, u, y** 
 feasiblex [ible=able]  [feas=fac=fact]
+**辅音之间 p/b, t/d, k/g/c/qu, f/v, s/z/x/th 可以互换**
+
