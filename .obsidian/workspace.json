@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "efdf07ebbe64728c",
+        "id": "ea1fff34827cb180",
         "type": "tabs",
         "children": [
           {
-            "id": "ac7c87bdaaaf6275",
+            "id": "85626f4660066a42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vocabulary"
+              "title": "New tab"
             }
           }
         ]
@@ -197,10 +193,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ac7c87bdaaaf6275",
+  "active": "0b05d76b87745fb1",
   "lastOpenFiles": [
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
-    "Vocabulary.md",
+    "Humanities/Hemingway-English/Vocabulary.md",
     "Humanities/Buffett-Business/Business SA1.md",
     "Humanities/Buffett-Business/Business 1.2.6.md",
     "Humanities/Buffett-Business/Business 1.2.5.md",
