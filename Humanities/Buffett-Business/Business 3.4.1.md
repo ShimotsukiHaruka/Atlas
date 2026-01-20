@@ -43,20 +43,21 @@ Either cash, a cash equivalent, or anything which can be converted into cash wit
     - Profits after tax
     - Financial security
     - Possible pay rises
+
 **External Stakeholders:**
-4. The government 
+1. The government 
     - Tax liabilities
     - Standards and regulations
     - Decisions by managers
-5. Suppliers
+2. Suppliers
     - Cash position
     - Trends in revenue and profits
-6. Customers
+3. Customers
     - Profits as a proportion of revenue
     - Financial security
-7. Pressure groups
+4. Pressure groups
     - Issues such as ethics and sustainability
-8. Investors
+5. Investors
     - Historical financial performance
     - Financial security
 ## Vocabulary
