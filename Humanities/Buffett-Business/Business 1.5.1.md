@@ -25,6 +25,8 @@ External economies of scale occur when firms benefit from the entire industry be
 
 **Labor economies:** Large firms can engage in division of labor among their staff, and by firing their unproductive workers, they can decrease labor costs, which means more profits.
 
+**Purchasing:** 
+
 **Research and development economies:** A large firm can have a research and development (R&D) department, since it can reduce average costs by developing more efficient methods of production and raise total revenue by developing new innovative products.
 ## Vocabulary
 + Clash
