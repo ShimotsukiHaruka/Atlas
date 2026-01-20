@@ -26,7 +26,7 @@
 
 **IPO:** Initial Public Offering
 
-**M&A:** Mergers and Acquisitions
+**BoD:** board of directors
 
 **AGM:** Annual general meeting allows owners
 
