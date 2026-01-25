@@ -11,12 +11,14 @@
             "id": "85626f4660066a42",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Sciences/Einstein-Physics/Assets/B.2&B.3.png"
+                "file": "Humanities/Hemingway-English/Vocabulary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "B.2&B.3"
+              "icon": "lucide-file",
+              "title": "Vocabulary"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91552e0d0671fa4d",
@@ -197,6 +200,7 @@
   },
   "active": "85626f4660066a42",
   "lastOpenFiles": [
+    "Sciences/Einstein-Physics/Assets/B.2&B.3.png",
     "Sciences/Einstein-Physics/Assets/B.1.png",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.md",
     "Humanities/Buffett-Business/Business SA1.md",
@@ -232,7 +236,6 @@
     "Humanities/Buffett-Business/Assets/2.png",
     "Humanities/Buffett-Business/Assets/1.png",
     "Humanities/Buffett-Business/Assets/1.jpg",
-    "Sciences/Einstein-Physics/Assets/B.4.png",
     "Arts/Sakamoto-Music/Magnolia.mp3",
     "Humanities/Buffett-Business/IB Business Management Exam Answer Templates.pdf",
     "Humanities/Laozi-Chinese/Assets",
