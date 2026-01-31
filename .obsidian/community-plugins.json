@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-textgenerator-plugin",
-  "remotely-save",
-  "colored-text"
+  "colored-text",
+  "obsidian-latex-suite"
 ]
