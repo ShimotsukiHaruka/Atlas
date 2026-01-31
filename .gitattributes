@@ -1,7 +1,4 @@
-# 1. 先把所有文件都“屏蔽”掉（不计入统计）
 * linguist-vendored
-
-# 2. 专门把 .md 文件“捞”回来，并强制设为 Markdown 语言
 *.md linguist-vendored=false
 *.md linguist-detectable=true
 *.md linguist-language=Markdown
